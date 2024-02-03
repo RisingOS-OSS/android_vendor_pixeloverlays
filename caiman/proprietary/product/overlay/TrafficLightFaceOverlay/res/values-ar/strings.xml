@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">في الشاشة التالية، ارفَع هاتفك إلى مستوى العينَين</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">كيفية إعداد ميزة \"فتح الجهاز ببصمة الوجه\"</string>
+    <string name="security_settings_face_enroll_finish_description">يمكنك الآن اختيار هاتفك واستخدام وجهك لفتح قفله.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"يمكنك حذف نموذج الوجه الحالي لإعادة إعداد ميزة \"فتح الجهاز ببصمة الوجه\".
+
+سيتم حذف نموذج الوجه نهائيًا وبأمان.
+
+بعد حذفه، ستحتاج إلى رقم التعريف الشخصي أو النقش أو كلمة المرور لفتح قفل الهاتف."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"يمكنك حذف نموذج الوجه الحالي لإعادة إعداد ميزة \"فتح الجهاز ببصمة الوجه\".
+
+سيتم حذف نموذج الوجه نهائيًا وبأمان.
+
+بعد حذفه، ستحتاج إلى بصمة الإصبع أو رقم التعريف الشخصي أو النقش أو كلمة المرور لفتح قفل الهاتف."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">إذا كنت ترتدي نظارات في العادة، يمكنك ارتداؤها أثناء عملية الإعداد.</string>
+    <string name="security_settings_face_enroll_introduction_message">استخدام وجهك لفتح قفل الهاتف</string>
+    <string name="security_settings_face_settings_footer">"يمكنك استخدام وجهك لفتح قفل الهاتف
+
+ملاحظة:
+لا يمكنك إعداد أكثر من وجه واحد في كل مرة. لإضافة وجه آخر، عليك حذف الوجه الحالي.
+
+قد تفتح قفل الهاتف بدون قصد بمجرّد النظر إليه.
+
+ويمكن لشخص آخر فتح قفل هاتفك عند تقريبه من وجهك.
+
+وكذلك، يمكن لشخص يشبهك كثيرًا، مثل شقيقك التوأم، فتح قفل هاتفك."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"يمكنك استخدام وجهك لفتح قفل الهاتف
+
+ملاحظة:
+لا يمكنك إعداد أكثر من وجه واحد في كل مرة. لإضافة وجه آخر، عليك حذف الوجه الحالي.
+
+قد تفتح قفل الهاتف بدون قصد بمجرّد النظر إليه.
+
+ويمكن لشخص آخر فتح قفل هاتفك عند تقريبه من وجهك، حتى وأنت مغلق العينين.
+
+وكذلك، يمكن لشخص يشبهك كثيرًا، مثل شقيقك التوأم، فتح قفل هاتفك."</string>
+    <string name="security_settings_face_settings_require_attention_details">لفتح قفل الهاتف، يجب النظر إليه بعينين مفتوحتين. للحصول على أفضل النتائج، اخلع النظارات الشمسية عند فتح قفل الهاتف.</string>
+</resources>

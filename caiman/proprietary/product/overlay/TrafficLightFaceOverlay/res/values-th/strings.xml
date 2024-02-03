@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">ในหน้าจอถัดไป ให้ถือโทรศัพท์ไว้ที่ระดับสายตา</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">วิธีตั้งค่าการปลดล็อกด้วยใบหน้า</string>
+    <string name="security_settings_face_enroll_finish_description">ตอนนี้คุณสามารถหยิบโทรศัพท์ขึ้นมาแล้วใช้ใบหน้าเพื่อปลดล็อกได้</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"ลบรูปแบบใบหน้าปัจจุบันแล้วตั้งค่าการปลดล็อกด้วยใบหน้าอีกครั้ง
+
+ระบบจะลบรูปแบบใบหน้าออกอย่างถาวรและปลอดภัย
+
+หลังจากที่ลบแล้ว คุณจะต้องใช้ PIN, รูปแบบ หรือรหัสผ่านเพื่อปลดล็อกโทรศัพท์"</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"ลบรูปแบบใบหน้าปัจจุบันแล้วตั้งค่าการปลดล็อกด้วยใบหน้าอีกครั้ง
+
+ระบบจะลบรูปแบบใบหน้าออกอย่างถาวรและปลอดภัย
+
+หลังจากที่ลบแล้ว คุณจะต้องใช้ลายนิ้วมือ, PIN, รูปแบบ หรือรหัสผ่านเพื่อปลดล็อกโทรศัพท์"</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">หากคุณสวมแว่นตาเป็นปกติ ก็สวมไว้ระหว่างการตั้งค่าได้</string>
+    <string name="security_settings_face_enroll_introduction_message">ใช้ใบหน้าเพื่อปลดล็อกโทรศัพท์</string>
+    <string name="security_settings_face_settings_footer">"ใช้ใบหน้าเพื่อปลดล็อกโทรศัพท์
+
+โปรดทราบ
+คุณตั้งค่าใบหน้าได้ครั้งละ 1 ใบหน้าเท่านั้น หากต้องการเพิ่มใบหน้าอื่น ให้ลบใบหน้าปัจจุบันออก
+
+การดูโทรศัพท์อาจปลดล็อกเครื่องโดยไม่ตั้งใจ
+
+คนอื่นอาจปลดล็อกโทรศัพท์ได้หากถือโทรศัพท์ไว้ตรงหน้าของคุณ
+
+คนที่หน้าคล้ายคุณมากๆ เช่น พี่น้องที่หน้าตาเหมือนกัน อาจปลดล็อกโทรศัพท์ได้"</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"ใช้ใบหน้าเพื่อปลดล็อกโทรศัพท์
+
+โปรดทราบ
+คุณตั้งค่าใบหน้าได้ครั้งละ 1 ใบหน้าเท่านั้น หากต้องการเพิ่มใบหน้าอื่น ให้ลบใบหน้าปัจจุบันออก
+
+การดูโทรศัพท์อาจปลดล็อกเครื่องโดยไม่ตั้งใจ
+
+คนอื่นอาจปลดล็อกโทรศัพท์ได้หากถือโทรศัพท์ไว้ตรงหน้าของคุณ แม้ในขณะที่คุณหลับตาอยู่
+
+คนที่หน้าคล้ายคุณมากๆ เช่น พี่น้องที่หน้าตาเหมือนกัน อาจปลดล็อกโทรศัพท์ได้"</string>
+    <string name="security_settings_face_settings_require_attention_details">คุณต้องลืมตาเพื่อปลดล็อกโทรศัพท์ ถอดแว่นกันแดดเมื่อปลดล็อกโทรศัพท์เพื่อให้ได้ผลดีที่สุด</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Sa susunod na screen, hawakan ang iyong telepono nang kapantay ng mata</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Pag-set up ng Pag-unlock Gamit ang Mukha</string>
+    <string name="security_settings_face_enroll_finish_description">Puwede mo nang kunin ang iyong telepono at gamitin ang mukha mo para i-unlock ito</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"I-delete ang iyong kasalukuyang face model para ma-set up ulit ang Pag-unlock Gamit ang Mukha.
+
+Permanente at secure na made-delete ang iyong face model.
+
+Pagkatapos mag-delete, kakailanganin mo ang iyong PIN, pattern, o password para i-unlock ang telepono mo."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"I-delete ang kasalukuyan mong face model para ma-set up ulit ang Pag-unlock Gamit ang Mukha.
+
+Permanente at secure na made-delete ang iyong face model.
+
+Pagkatapos mag-delete, kakailanganin mo ang fingerprint, PIN, pattern, o password mo para i-unlock ang telepono mo."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Kung karaniwan kang nagsusuot ng salamin sa mata, puwede mo itong isuot habang nagse-set up.</string>
+    <string name="security_settings_face_enroll_introduction_message">Gamitin ang iyong mukha para i-unlock ang telepono mo</string>
+    <string name="security_settings_face_settings_footer">"Gamitin ang iyong mukha para i-unlock ang telepono mo.
+
+Tandaan:
+Isang mukha lang ang puwedeng naka-set up para sa iyo sa bawat pagkakataon. Para magdagdag pa ng mukha, i-delete ang kasalukuyang mukha.
+
+Kapag tumingin ka sa telepono, puwede mong hindi sinasadyang ma-unlock ito.
+
+Puwedeng ma-unlock ng ibang tao ang telepono mo kung itatapat ito sa iyong mukha.
+
+Puwedeng ma-unlock ng isang taong may malaking pagkakahawig sa iyo ang telepono mo, gaya ng kapatid na kamukha mo."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Gamitin ang iyong mukha para i-unlock ang telepono mo.
+
+Tandaan:
+Isang mukha lang ang puwedeng naka-set up para sa iyo sa bawat pagkakataon. Para magdagdag pa ng mukha, i-delete ang kasalukuyang mukha.
+
+Kapag tumingin ka sa telepono, puwede mong hindi sinasadyang ma-unlock ito.
+
+Puwedeng ma-unlock ng ibang tao ang telepono mo kung itatapat ito sa iyong mukha, kahit na nakapikit ka.
+
+Puwedeng ma-unlock ng isang taong may malaking pagkakahawig sa iyo ang telepono mo, gaya ng kapatid na kamukha mo."</string>
+    <string name="security_settings_face_settings_require_attention_details">Para i-unlock ang telepono, dapat ay nakadilat ka. Para sa mga pinakamainam na resulta, alisin ang salamin kapag ina-unlock ang telepono.</string>
+</resources>

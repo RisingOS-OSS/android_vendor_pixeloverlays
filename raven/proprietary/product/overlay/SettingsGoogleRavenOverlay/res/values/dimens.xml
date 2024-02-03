@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="face_preview_scale">1.2</item>
+    <item type="dimen" name="face_preview_translate_x">-130.0</item>
+    <item type="dimen" name="face_preview_translate_y">-300.0</item>
+    <dimen name="udfps_lottie_translate_y">-500.0dip</dimen>
+</resources>

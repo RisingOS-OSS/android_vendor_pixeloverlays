@@ -1,0 +1,30 @@
+# All blobs below are extracted from akita AP3A.241105.008
+
+# Pixel Overlays
+-product/overlay/AvatarPickerPixelOverlay.apk
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceDiagnostics__akita__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__akita__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__akita__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PixelBatteryHealthOverlay.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/PixelDisplayService__akita__auto_generated_rro_product.apk
+-product/overlay/SafetyRegulatoryInfo__akita__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__akita__auto_generated_rro_product.apk:product/overlay/SettingsGoogleAkitaOverlayRRO.apk
+-product/overlay/SettingsGoogleAkitaOverlay.apk
+-product/overlay/SettingsProvider__akita__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__akita__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__akita__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__akita__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__akita__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__akita__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__akita__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__akita__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/TrafficLightFaceOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-product/overlay/WifiOverlay2024Mid/PixelWifiOverlay2024_midyear.apk
+-product/overlay/WildlifeSettingsVpnOverlay2022.apk
+-product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__akita__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleAkitaOverlayVendorRRO.apk
+

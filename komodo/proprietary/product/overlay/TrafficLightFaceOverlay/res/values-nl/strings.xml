@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Op het volgende scherm houd je je telefoon op ooghoogte</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Ontgrendelen via gezichtsherkenning instellen</string>
+    <string name="security_settings_face_enroll_finish_description">Je kunt je telefoon nu oppakken en deze met je gezicht ontgrendelen</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Verwijder je huidige gezichtsmodel om Ontgrendelen via gezichtsherkenning weer in te stellen.
+
+Je gezichtsmodel wordt definitief en veilig verwijderd.
+
+Na verwijdering heb je je pincode, patroon of wachtwoord nodig om je telefoon te ontgrendelen."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Verwijder je huidige gezichtsmodel om Ontgrendelen via gezichtsherkenning weer in te stellen.
+
+Je gezichtsmodel wordt definitief en veilig verwijderd.
+
+Na verwijdering heb je je vingerafdruk, pincode, patroon of wachtwoord nodig om je telefoon te ontgrendelen."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Als je normaal een bril draagt, kun je die dragen tijdens het instellen.</string>
+    <string name="security_settings_face_enroll_introduction_message">Ontgrendel je telefoon met je gezicht</string>
+    <string name="security_settings_face_settings_footer">"Gebruik je gezicht om je telefoon te ontgrendelen.
+
+Goed om te weten:
+Je kunt maar één gezicht tegelijk instellen. Verwijder dus eerst het huidige gezicht om een ander gezicht te kunnen toevoegen.
+
+Als je naar de telefoon kijkt, kun je deze onbedoeld ontgrendelen.
+
+Iemand anders kan je telefoon ontgrendelen als die de telefoon voor je gezicht houdt.
+
+Iemand die veel op je lijkt, kan je telefoon ook ontgrendelen, zoals een identieke tweelingbroer of -zus."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Gebruik je gezicht om je telefoon te ontgrendelen.
+
+Goed om te weten:
+Je kunt maar één gezicht tegelijk instellen. Verwijder dus eerst het huidige gezicht om een ander gezicht te kunnen toevoegen.
+
+Als je naar de telefoon kijkt, kun je deze onbedoeld ontgrendelen.
+
+Iemand anders kan je telefoon ontgrendelen als die de telefoon voor je gezicht houdt, ook als je ogen dicht zijn.
+
+Iemand die veel op je lijkt, kan je telefoon ook ontgrendelen, zoals een identieke tweelingbroer of -zus."</string>
+    <string name="security_settings_face_settings_require_attention_details">Je ogen moeten open zijn om de telefoon te ontgrendelen. Voor het beste resultaat zet je je zonnebril af als je de telefoon ontgrendelt.</string>
+</resources>

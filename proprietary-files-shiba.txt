@@ -1,0 +1,30 @@
+# All blobs below are extracted from shiba AP3A.241105.008
+
+# Pixel Overlays
+-product/overlay/AvatarPickerPixelOverlay.apk
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceDiagnostics__shiba__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__shiba__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__shiba__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PixelBatteryHealthOverlay.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/PixelDisplayService__shiba__auto_generated_rro_product.apk
+-product/overlay/SafetyRegulatoryInfo__shiba__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__shiba__auto_generated_rro_product.apk:product/overlay/SettingsGoogleShibaOverlayRRO.apk
+-product/overlay/SettingsGoogleShibaOverlay.apk
+-product/overlay/SettingsProvider__shiba__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__shiba__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__shiba__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__shiba__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__shiba__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__shiba__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__shiba__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__shiba__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/TrafficLightFaceOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-product/overlay/WifiOverlay2023/PixelWifiOverlay2023.apk
+-product/overlay/WildlifeSettingsVpnOverlay2022.apk
+-product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__shiba__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleShibaOverlayVendorRRO.apk
+

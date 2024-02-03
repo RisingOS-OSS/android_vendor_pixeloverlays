@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="config_compensation_filter_intercept">10.0</item>
+    <item type="dimen" name="config_lbe_lux_switch_threshold">1.0</item>
+    <item type="dimen" name="config_za_compensation_brightness_enter_threshold">0.4</item>
+</resources>

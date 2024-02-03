@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">На следећем екрану држите телефон у висини очију</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Како да подесите откључавање лицем</string>
+    <string name="security_settings_face_enroll_finish_description">Сада можете да узмете телефон и користите лице да бисте га откључали</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Избришите актуелни модел лица да бисте поново подесили откључавање лицем.
+
+Модел лица ће бити трајно и безбедно избрисан.
+
+После брисања требаће вам PIN, шаблон или лозинка да бисте откључали телефон."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Избришите актуелни модел лица да бисте поново подесили откључавање лицем.
+
+Модел лица ће бити трајно и безбедно избрисан.
+
+После брисања требаће вам отисак прста, PIN, шаблон или лозинка да бисте откључали телефон."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Ако обично носите наочаре, можете да их носите током подешавања.</string>
+    <string name="security_settings_face_enroll_introduction_message">Откључавајте телефон помоћу лица</string>
+    <string name="security_settings_face_settings_footer">"Откључавајте телефон помоћу лица.
+
+Не заборавите:
+Можете да имате подешено само једно лице. Да бисте додали лице, избришите актуелно.
+
+Ако погледате телефон, можете нехотице да га откључате.
+
+Телефон може да откључа неко други ако га приближи вашем лицу.
+
+Телефон може да откључа неко ко много личи на вас, на пример, идентични близанац."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Откључавајте телефон помоћу лица.
+
+Не заборавите:
+Можете да имате подешено само једно лице. Да бисте додали лице, избришите актуелно.
+
+Ако погледате телефон, можете нехотице да га откључате.
+
+Телефон може да откључа неко други ако га приближи вашем лицу, чак и ако су вам очи затворене.
+
+Телефон може да откључа неко ко много личи на вас, на пример, идентични близанац."</string>
+    <string name="security_settings_face_settings_require_attention_details">Да бисте откључали телефон, очи морају да вам буду отворене. За најбоље резултате, скините наочаре за сунце када откључавате телефон.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_adaptive_alert_vibration_enabled">true</bool>
+    <bool name="config_battery_first_use_date_enabled">false</bool>
+    <bool name="config_early_screen_timeout_detector_enabled">true</bool>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Kitame ekrane laikykite telefoną akių lygyje</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Kaip nustatyti atrakinimą pagal veidą</string>
+    <string name="security_settings_face_enroll_finish_description">Dabar galite paimti telefoną ir atrakinti jį pagal veidą</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Kad galėtumėte iš naujo nustatyti atrakinimą pagal veidą, ištrinkite esamą veido modelį.
+
+Veido modelis bus visam laikui saugiai ištrintas.
+
+Ištrynus, kad galėtumėte atrakinti telefoną, reikės PIN kodo, atrakinimo piešinio arba slaptažodžio."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Kad galėtumėte iš naujo nustatyti atrakinimą pagal veidą, ištrinkite esamą veido modelį.
+
+Veido modelis bus visam laikui saugiai ištrintas.
+
+Ištrynus, kad galėtumėte atrakinti telefoną, reikės kontrolinio kodo, PIN kodo, atrakinimo piešinio arba slaptažodžio."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Jei įprastai nešiojate akinius, nustatydami galite juos užsidėti.</string>
+    <string name="security_settings_face_enroll_introduction_message">Naudokite veido atpažinimo funkciją telefonui atrakinti</string>
+    <string name="security_settings_face_settings_footer">"Naudokite veido atpažinimo funkciją telefonui atrakinti.
+
+Pastaba:
+vienu metu gali būti nustatytas tik vienas veidas. Norėdami pridėti kitą veidą, ištrinkite esamą.
+
+Žiūrint į telefoną jis gali būti atrakintas, kai to neketinate atlikti.
+
+Telefoną gali atrakinti kitas asmuo, laikydamas jį prieš jus.
+
+Telefoną gali atrakinti į jus labai panašus asmuo, pvz., identiškas dvynys."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Naudokite veido atpažinimo funkciją telefonui atrakinti.
+
+Pastaba:
+vienu metu gali būti nustatytas tik vienas veidas. Norėdami pridėti kitą veidą, ištrinkite esamą.
+
+Žiūrint į telefoną jis gali būti atrakintas, kai to neketinate atlikti.
+
+Telefoną gali atrakinti kitas asmuo, laikydamas jį prieš jus.
+
+Telefoną gali atrakinti į jus labai panašus asmuo, pvz., identiškas dvynys."</string>
+    <string name="security_settings_face_settings_require_attention_details">Norint atrakinti telefoną, reikia būti atsimerkus. Kad užtikrintumėte geriausius rezultatus, atrakindami telefoną nusiimkite akinius nuo saulės.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="device_foldable">false</bool>
+    <bool name="nfc_observe_mode_supported">true</bool>
+    <bool name="nfcc_always_on_allowed">true</bool>
+    <bool name="polling_disable_allowed">true</bool>
+    <bool name="tag_intent_app_pref_supported">true</bool>
+</resources>

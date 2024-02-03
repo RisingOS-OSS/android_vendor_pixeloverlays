@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">În ecranul următor, ține telefonul la nivelul ochilor</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Configurarea Deblocării faciale</string>
+    <string name="security_settings_face_enroll_finish_description">Acum poți să ridici telefonul și să îți folosești fața ca să-l deblochezi</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Șterge modelul facial actual pentru a reconfigura Deblocarea facială.
+
+Modelul facial se va șterge definitiv și în siguranță.
+
+După ștergere, vei avea nevoie de codul PIN, de model sau de parolă ca să îți deblochezi telefonul."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Șterge modelul facial actual pentru a reconfigura Deblocarea facială.
+
+Modelul facial se va șterge definitiv și în siguranță.
+
+După ștergere, vei avea nevoie de amprentă, de codul PIN, de model sau de parolă ca să îți deblochezi telefonul."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Dacă în mod normal porți ochelari, îi poți purta și în timpul configurării.</string>
+    <string name="security_settings_face_enroll_introduction_message">Folosește-ți chipul ca să deblochezi telefonul</string>
+    <string name="security_settings_face_settings_footer">"Folosește-ți chipul ca să deblochezi telefonul.
+
+Reține:
+poți avea un singur chip configurat la un moment dat. Pentru a adăuga un alt chip, șterge-l pe cel actual.
+
+Dacă te uiți la telefon, îl poți debloca și când nu dorești.
+
+Telefonul poate fi deblocat de altcineva dacă este ținut în dreptul feței tale.
+
+Telefonul poate fi deblocat de cineva care seamănă mult cu tine, cum ar fi un frate sau o soră geamănă."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Folosește-ți chipul ca să deblochezi telefonul.
+
+Reține:
+poți avea un singur chip configurat la un moment dat. Pentru a adăuga un alt chip, șterge-l pe cel actual.
+
+Dacă te uiți la telefon, îl poți debloca și când nu dorești.
+
+Telefonul poate fi deblocat de altcineva dacă este ținut în dreptul feței tale, chiar dacă ai ochii închiși.
+
+Telefonul poate fi deblocat de cineva care seamănă mult cu tine, cum ar fi un frate sau o soră geamănă."</string>
+    <string name="security_settings_face_settings_require_attention_details">Pentru a debloca telefonul, trebuie să ai ochii deschiși. Pentru rezultate optime, nu purta ochelari de soare când deblochezi telefonul.</string>
+</resources>

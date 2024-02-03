@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometrics_unlock_set_unlock_password">Password • Fingerprint • Face</string>
+    <string name="biometrics_unlock_set_unlock_pattern">Pattern • Fingerprint • Face</string>
+    <string name="biometrics_unlock_set_unlock_pin">PIN • Fingerprint • Face</string>
+    <string name="config_limited_warranty_overlay_package_name">com.android.settings.overlay.panther</string>
+</resources>

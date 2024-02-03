@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Na sljedećem zaslonu držite telefon na razini očiju</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Kako postaviti otključavanje licem</string>
+    <string name="security_settings_face_enroll_finish_description">Sad možete podignuti telefon i otključati ga svojim licem</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Izbrišite trenutačni model lica da biste ponovo postavili otključavanje licem.
+
+Model lica trajno će se i sigurno izbrisati.
+
+Nakon brisanja trebat će vam PIN, uzorak ili zaporka da biste otključali telefon."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Izbrišite trenutačni model lica da biste ponovo postavili otključavanje licem.
+
+Model lica trajno će se i sigurno izbrisati.
+
+Nakon brisanja trebat će vam otisak prsta, PIN, uzorak ili zaporka da biste otključali telefon."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Ako obično nosite naočale, možete ih nositi tijekom postavljanja.</string>
+    <string name="security_settings_face_enroll_introduction_message">Otključajte telefon licem</string>
+    <string name="security_settings_face_settings_footer">"Otključajte telefon licem.
+
+Napomena:
+Istovremeno možete imati postavljeno samo jedno lice. Izbrišite aktualno lice da biste dodali neko drugo.
+
+Gledanjem u telefon možete ga otključati i kad to ne želite.
+
+Vaš telefon može otključati i netko drugi ako ga prinese vašem licu.
+
+Vaš telefon može otključati i netko tko vam je vrlo sličan, na primjer blizanac."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Otključajte telefon licem.
+
+Napomena:
+Istovremeno možete imati postavljeno samo jedno lice. Izbrišite aktualno lice da biste dodali neko drugo.
+
+Gledanjem u telefon možete ga otključati i kad to ne želite.
+
+Vaš telefon može otključati i netko drugi ako ga prinese vašem licu, čak i ako su vam oči zatvorene.
+
+Vaš telefon može otključati i netko tko vam je vrlo sličan, na primjer blizanac."</string>
+    <string name="security_settings_face_settings_require_attention_details">Da biste otključali telefon, oči vam moraju biti otvorene. Za najbolje rezultate skinite sunčane naočale kad otključavate telefon.</string>
+</resources>

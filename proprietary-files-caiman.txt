@@ -1,0 +1,34 @@
+# All blobs below are extracted from caiman AP3A.241105.008
+
+# Pixel Overlays
+-product/overlay/AvatarPickerPixelOverlay.apk
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceDiagnostics__caiman__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__caiman__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__caiman__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PearlOverlay2024.apk
+-product/overlay/PixelBatteryHealthOverlay.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/PixelDisplayService__caiman__auto_generated_rro_product.apk
+-product/overlay/PixelSetupWizardOverlay2024.apk
+-product/overlay/PixelSupportPrebuiltOverlay.apk
+-product/overlay/SafetyRegulatoryInfo__caiman__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__caiman__auto_generated_rro_product.apk:product/overlay/SettingsGoogleCaimanOverlayRRO.apk
+-product/overlay/SettingsGoogleCaimanOverlay.apk
+-product/overlay/SettingsProvider__caiman__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__caiman__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__caiman__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__caiman__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__caiman__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__caiman__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__caiman__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__caiman__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/TrafficLightFaceOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-product/overlay/UltrasonicOverlay.apk
+-product/overlay/WifiOverlay2024/PixelWifiOverlay2024.apk
+-product/overlay/WildlifeSettingsVpnOverlay2022.apk
+-product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__caiman__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleCaimanOverlayVendorRRO.apk
+

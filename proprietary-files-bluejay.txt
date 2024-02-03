@@ -1,0 +1,24 @@
+# All blobs below are extracted from bluejay AP3A.241105.007
+
+# Pixel Overlays
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceDiagnostics__bluejay__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__bluejay__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__bluejay__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayBluejay.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/SafetyRegulatoryInfo__bluejay__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__bluejay__auto_generated_rro_product.apk:product/overlay/SettingsGoogleBluejayOverlayRRO.apk
+-product/overlay/SettingsGoogleBluejayOverlay.apk
+-product/overlay/SettingsProvider__bluejay__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__bluejay__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__bluejay__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__bluejay__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__bluejay__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__bluejay__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__bluejay__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__bluejay__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-product/overlay/WifiOverlay/PixelWifiOverlay2022_midyear.apk
+-vendor/overlay/SettingsGoogle__bluejay__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleBluejayOverlayVendorRRO.apk

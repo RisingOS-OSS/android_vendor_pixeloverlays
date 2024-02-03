@@ -1,0 +1,34 @@
+# All blobs below are extracted from komodo AP3A.241105.008
+
+# Pixel Overlays
+-product/overlay/AvatarPickerPixelOverlay.apk
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceDiagnostics__komodo__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__komodo__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__komodo__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PearlOverlay2024.apk
+-product/overlay/PixelBatteryHealthOverlay.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/PixelDisplayService__komodo__auto_generated_rro_product.apk
+-product/overlay/PixelSetupWizardOverlay2024.apk
+-product/overlay/PixelSupportPrebuiltOverlay.apk
+-product/overlay/SafetyRegulatoryInfo__komodo__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__komodo__auto_generated_rro_product.apk:product/overlay/SettingsGoogleKomodoOverlayRRO.apk
+-product/overlay/SettingsGoogleKomodoOverlay.apk
+-product/overlay/SettingsProvider__komodo__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__komodo__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__komodo__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__komodo__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__komodo__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__komodo__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__komodo__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__komodo__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/TrafficLightFaceOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-product/overlay/UltrasonicOverlay.apk
+-product/overlay/WifiOverlay2024/PixelWifiOverlay2024.apk
+-product/overlay/WildlifeSettingsVpnOverlay2022.apk
+-product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__komodo__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleKomodoOverlayVendorRRO.apk
+

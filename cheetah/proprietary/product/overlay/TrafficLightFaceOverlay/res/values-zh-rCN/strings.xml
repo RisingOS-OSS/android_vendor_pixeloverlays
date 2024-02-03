@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">在下一个画面中，请将手机举到与眼睛齐平的位置</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">如何设置人脸解锁</string>
+    <string name="security_settings_face_enroll_finish_description">现在您可以拿起手机并使用自己的脸部来解锁了</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"请删除您当前的脸部模型以重新设置人脸解锁。
+
+系统会安全地永久删除您的脸部模型。
+
+脸部模型删除后，如需解锁手机，您将需要使用 PIN 码、解锁图案或密码。"</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"请删除您当前的脸部模型以重新设置人脸解锁。
+
+系统会安全地永久删除您的脸部模型。
+
+脸部模型删除后，如需解锁手机，您将需要使用指纹、PIN 码、解锁图案或密码。"</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">如果您平时戴眼镜，在设置过程中可如常戴着。</string>
+    <string name="security_settings_face_enroll_introduction_message">刷脸解锁手机</string>
+    <string name="security_settings_face_settings_footer">"您可以通过刷脸来解锁手机。
+
+请注意：
+一次只能设置一张面孔。如需添加另一张面孔，请先删除当前的面孔。
+
+目视手机可能会让手机在您并未要求的情况下解锁。
+
+如果有人将手机对准您的脸，手机可能会解锁。
+
+此外，长相与您非常相似的人（例如您的孪生兄弟姐妹）可能也能解锁您的手机。"</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"您可以通过刷脸来解锁手机。
+
+请注意：
+一次只能设置一张面孔。如需添加另一张面孔，请先删除当前的面孔。
+
+目视手机可能会让手机在您并未要求的情况下解锁。
+
+如果有人将手机对准您的脸，即使您闭着眼睛，手机可能也会解锁。
+
+此外，长相与您非常相似的人（例如您的孪生兄弟姐妹）可能也能解锁您的手机。"</string>
+    <string name="security_settings_face_settings_require_attention_details">必须睁开双眼才能解锁手机。为获得最佳效果，请在解锁手机时取下太阳镜。</string>
+</resources>

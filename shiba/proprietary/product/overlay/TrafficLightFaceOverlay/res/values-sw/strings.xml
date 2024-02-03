@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Kwenye skrini inayofuata, shikilia simu yako ikilingana na macho yako</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Jinsi ya kuweka mipangilio ya Kufungua kwa uso</string>
+    <string name="security_settings_face_enroll_finish_description">Sasa unaweza kuchukua simu yako kisha utumie uso wako kuifungua</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Futa muundo wa sasa wa uso wako ili uweke tena mipangilio ya kufungua kwa uso.
+
+Muundo wa uso wako utafutwa kabisa kwa usalama.
+
+Baada ya kuufuta, utahitaji PIN, mchoro au nenosiri lako ili kufungua simu yako."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Futa muundo wa sasa wa uso wako ili uweke tena mipangilio ya kufungua kwa uso.
+
+Muundo wa uso wako utafutwa kabisa kwa usalama.
+
+Baada ya kuufuta, utahitaji alama ya kidole, PIN, mchoro au nenosiri lako ili kufungua simu yako."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Ikiwa kwa kawaida unavaa miwani, unaweza kuivaa wakati wa kuweka mipangilio.</string>
+    <string name="security_settings_face_enroll_introduction_message">Tumia uso wako kufungua simu yako</string>
+    <string name="security_settings_face_settings_footer">"Tumia uso wako kufungua simu yako.
+
+Kumbuka:
+Unaruhusiwa kuweka uso mmoja tu kwa wakati. Ili uweke uso mwingine, futa uso wa sasa.
+
+Kuangalia simu kunaweza kuifungua wakati hujakusudia.
+
+Simu yako inaweza kufunguliwa na mtu mwingine akiiweka mbele ya uso wako.
+
+Simu yako inaweza kufunguliwa na mtu mnayefanana, kama vile ndugu mnayefanana sana."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Tumia uso wako kufungua simu yako.
+
+Kumbuka:
+Unaruhusiwa kuweka uso mmoja tu kwa wakati. Ili uweke uso mwingine, futa uso wa sasa.
+
+Kuangalia simu kunaweza kuifungua wakati hujakusudia.
+
+Simu yako inaweza kufunguliwa na mtu mwingine akiiweka mbele ya uso wako, hata ukiwa umefumba macho.
+
+Simu yako inaweza kufunguliwa na mtu mnayefanana, kama vile ndugu mnayefanana sana."</string>
+    <string name="security_settings_face_settings_require_attention_details">Ili ufungue simu, lazima uwe umefungua macho yako. Kwa matokeo bora, ondoa miwani ya jua unapofungua simu.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Në ekranin tjetër, mbaje telefonin në nivelin e syve</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Si të konfigurosh \"Shkyçjen me fytyrë\"</string>
+    <string name="security_settings_face_enroll_finish_description">Tani mund të marrësh në dorë telefonin tënd dhe të përdorësh fytyrën për ta shkyçur atë</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Fshi modelin tënd aktual të fytyrës për të konfiguruar përsëri \"Shkyçjen me fytyrë\".
+
+Modeli yt i fytyrës do të fshihet përfundimisht dhe në mënyrë të sigurt.
+
+Pas fshirjes do të të duhet kodi yt PIN, motivi ose fjalëkalimi për të shkyçur telefonin."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Fshi modelin tënd aktual të fytyrës për të konfiguruar përsëri \"Shkyçjen me fytyrë\".
+
+Modeli yt i fytyrës do të fshihet përfundimisht dhe në mënyrë të sigurt.
+
+Pas fshirjes do të të duhet gjurma jote e gishtit, kodi PIN, motivi ose fjalëkalimi për të shkyçur telefonin."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">"Nëse mban normalisht syze, mund t'i mbash gjatë konfigurimit."</string>
+    <string name="security_settings_face_enroll_introduction_message">Përdor fytyrën për të shkyçur telefonin</string>
+    <string name="security_settings_face_settings_footer">"Përdor fytyrën për të shkyçur telefonin.
+
+Ki parasysh:
+Mund të kesh vetëm një fytyrë të konfiguruar në të njëjtën kohë. Për të shtuar një fytyrë tjetër, fshi fytyrën aktuale.
+
+Nëse shikon nga telefoni, mund ta shkyçësh pa dashje.
+
+Telefoni yt mund të shkyçet nga dikush tjetër nëse mbahet në nivelin e fytyrës.
+
+Telefoni mund të shkyçet nga dikush që të ngjan shumë, si p.sh. një binjak identik."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Përdor fytyrën për të shkyçur telefonin.
+
+Ki parasysh:
+Mund të kesh vetëm një fytyrë të konfiguruar në të njëjtën kohë. Për të shtuar një fytyrë tjetër, fshi fytyrën aktuale.
+
+Nëse shikon nga telefoni, mund ta shkyçësh pa dashje.
+
+Telefoni yt mund të shkyçet nga dikush tjetër nëse mbahet në nivelin e fytyrës edhe sikur t'i kesh mbyllur sytë.
+
+Telefoni mund të shkyçet nga dikush që të ngjan shumë, si p.sh. një binjak identik."</string>
+    <string name="security_settings_face_settings_require_attention_details">Për ta shkyçur telefonin, sytë e tu duhet të jenë të hapur. Për një rezultat më të mirë, hiq syzet e diellit kur shkyç telefonin.</string>
+</resources>

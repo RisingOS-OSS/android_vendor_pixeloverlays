@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Növbəti ekranda telefonunuzu göz səviyyəsində saxlayın</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Üz ilə kiliddən çıxarmanı necə ayarlamalı</string>
+    <string name="security_settings_face_enroll_finish_description">İndi telefonunuzu götürə və üzünüzdən istifadə edərək kilidini aça bilərsiniz</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Üz ilə kiliddən çıxarmanı yenidən ayarlamaq üçün cari üz modelinizi silin.
+
+Üz modeliniz həmişəlik və təhlükəsiz qaydada silinəcək.
+
+Silindikdən sonra telefonu kiliddən çıxarmaq üçün PIN, model və ya parol tələb ediləcək."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Üz ilə kiliddən çıxarmanı yenidən ayarlamaq üçün cari üz modelinizi silin.
+
+Üz modeliniz həmişəlik və təhlükəsiz qaydada silinəcək.
+
+Silindikdən sonra telefonu kiliddən çıxarmaq üçün barmaq izi, PIN, model və ya parol tələb ediləcək."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Normalda eynəkdən istifadə edirsinizsə, ayarlama zamanı onu taxa bilərsiniz.</string>
+    <string name="security_settings_face_enroll_introduction_message">Telefonu kiliddən çıxarmaq üçün üzünüzdən istifadə edin</string>
+    <string name="security_settings_face_settings_footer">"Telefonu kiliddən çıxarmaq üçün üzünüzdən istifadə edin.
+
+Unutmayın:
+Eyni anda yalnız bir üz ayarlaya bilərsiniz. Başqa bir üz əlavə etmək üçün cari üzü silin.
+
+Telefona baxarkən istəmədiyiniz halda onu kiliddən çıxara bilərsiniz.
+
+Telefonunuz başqası tərəfindən üzünüzə doğru tutularaq kiliddən çıxarıla bilər.
+
+Telefonunuz sizə çox bənzəyən biri tərəfindən (məsələn, eynilə bənzəyən bacı/qardaş) kiliddən çıxarıla bilər."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Telefonu kiliddən çıxarmaq üçün üzünüzdən istifadə edin.
+
+Unutmayın:
+Eyni anda yalnız bir üz ayarlaya bilərsiniz. Başqa bir üz əlavə etmək üçün cari üzü silin.
+
+Telefona baxarkən istəmədiyiniz halda onu kiliddən çıxara bilərsiniz.
+
+Telefonunuz başqası tərəfindən üzünüzə doğru tutularaq kiliddən çıxarıla bilər (hətta gözləriniz bağlı olsa belə).
+
+Telefonunuz sizə çox bənzəyən biri tərəfindən (məsələn, eynilə bənzəyən bacı/qardaş) kiliddən çıxarıla bilər."</string>
+    <string name="security_settings_face_settings_require_attention_details">Telefonu kiliddən çıxarmaq üçün gözləriniz açıq olmalıdır. Ən yaxşı nəticə üçün telefonun kilidini açarkən gün eynəyinizi çıxarın.</string>
+</resources>

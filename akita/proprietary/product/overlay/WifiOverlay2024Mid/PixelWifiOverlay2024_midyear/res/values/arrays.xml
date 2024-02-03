@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="config_wifi_fatal_firmware_alert_error_code_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>8</item>
+    </integer-array>
+</resources>

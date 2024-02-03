@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">A következő képernyőnél tartsa szemmagasságban a telefonját</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Az Arcalapú feloldás beállítása</string>
+    <string name="security_settings_face_enroll_finish_description">Mostantól elég, ha az arca elé tartja telefonját, amikor szeretné feloldani a zárolását</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Törölje a jelenlegi arcmodellt, hogy újra beállíthassa az Arcalapú feloldást.
+
+Az arcmodellt véglegesen és biztonságosan töröljük.
+
+Az eltávolítás után PIN-kódra, mintára vagy jelszóra lesz szüksége a telefon feloldásához."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Törölje a jelenlegi arcmodellt, hogy újra beállíthassa az Arcalapú feloldást.
+
+Az arcmodellt véglegesen és biztonságosan töröljük.
+
+Az eltávolítás után ujjlenyomatra, PIN-kódra, mintára vagy jelszóra lesz szüksége a telefon feloldásához."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Ha általában szemüveget hord, a beállítás során is viselheti.</string>
+    <string name="security_settings_face_enroll_introduction_message">Telefonjának feloldása arca segítségével</string>
+    <string name="security_settings_face_settings_footer">"Használhatja arcát telefonja zárolásának feloldásához.
+
+Ne feledje:
+Egyszerre csak egy arcot állíthat be. Másik arc megadásához törölnie kell a már beállított arcot.
+
+Ha a telefonja felé fordul, azzal akkor is feloldhatja az eszköz zárolását, ha nem áll szándékában.
+
+Telefonját más is feloldhatja, ha az Ön arca elé tartja.
+
+Előfordulhat, hogy telefonját az Önre nagyon hasonlító személyek is feloldhatják, például az egypetéjű ikertestvére."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Használhatja arcát telefonja zárolásának feloldásához.
+
+Ne feledje:
+egyszerre csak egy arcot állíthat be. Másik arc megadásához törölnie kell a már beállított arcot.
+
+Ha a telefonja felé fordul, azzal akkor is feloldhatja az eszköz zárolását, ha nem áll szándékában.
+
+Telefonját más is feloldhatja, ha az Ön arca elé tartja, még akkor is, ha a szemét csukva tartja.
+
+Előfordulhat, hogy telefonját az Önre nagyon hasonlító személyek is feloldhatják, például az egypetéjű ikertestvére."</string>
+    <string name="security_settings_face_settings_require_attention_details">A telefon feloldásához nyitva kell lennie a szemének. A legjobb eredmény érdekében vegye le a napszemüvegét a telefon feloldásakor.</string>
+</resources>

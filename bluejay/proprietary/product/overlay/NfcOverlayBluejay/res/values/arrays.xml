@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="antenna_x">
+        <item>36</item>
+    </integer-array>
+    <integer-array name="antenna_y">
+        <item>83</item>
+    </integer-array>
+    <string-array name="config_skuSupportsSecureNfc">
+        <item>GB62Z</item>
+        <item>G1AZG</item>
+        <item>GX7AS</item>
+        <item>GB17L</item>
+    </string-array>
+</resources>

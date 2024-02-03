@@ -1,0 +1,25 @@
+# All blobs below are extracted from oriole AP3A.241105.007
+
+# Pixel Overlays
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceAsWebcamOriole.apk
+-product/overlay/DeviceDiagnostics__oriole__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__oriole__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__oriole__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayOriole.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PixelBatteryHealthOverlay.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/SafetyRegulatoryInfo__oriole__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__oriole__auto_generated_rro_product.apk:product/overlay/SettingsGoogleOrioleOverlayRRO.apk
+-product/overlay/SettingsGoogleOrioleOverlay.apk
+-product/overlay/SettingsProvider__oriole__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__oriole__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__oriole__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__oriole__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__oriole__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__oriole__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__oriole__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__oriole__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-vendor/overlay/SettingsGoogle__oriole__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleOrioleOverlayVendorRRO.apk

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Pēc pāriešanas uz nākamo ekrānu turiet tālruni acu līmenī</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Kā iestatīt autorizāciju pēc sejas</string>
+    <string name="security_settings_face_enroll_finish_description">Tagad savu tālruni varat atbloķēt, izmantojot savu seju</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Lai vēlreiz iestatītu autorizāciju pēc sejas, dzēsiet pašreizējo sejas modeli.
+
+Sejas modelis tiks neatgriezeniski un droši izdzēsts.
+
+Pēc dzēšanas jums būs jāizmanto PIN, kombinācija vai parole, lai atbloķētu tālruni."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Lai vēlreiz iestatītu autorizāciju pēc sejas, dzēsiet pašreizējo sejas modeli.
+
+Sejas modelis tiks neatgriezeniski un droši izdzēsts.
+
+Pēc dzēšanas jums būs jāizmanto pirksta nospiedums, PIN, kombinācija vai parole, lai atbloķētu tālruni."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Ja parasti valkājat brilles, varat tās valkāt iestatīšanas laikā.</string>
+    <string name="security_settings_face_enroll_introduction_message">Izmantojiet autorizāciju pēc sejas, lai atbloķētu tālruni.</string>
+    <string name="security_settings_face_settings_footer">"Izmantojiet autorizāciju pēc sejas, lai atbloķētu tālruni.
+
+Ņemiet vērā tālāk sniegto informāciju.
+Vienlaikus var iestatīt tikai vienu seju. Lai pievienotu citu seju, dzēsiet pašreizējo seju.
+
+Skatoties uz tālruni, tas var tikt nejauši atbloķēts.
+
+Jūsu tālruni var atbloķēt kāds cits, ja tālrunis tiek pavērsts pret jūsu seju.
+
+Jūsu tālruni var atbloķēt jums līdzīga persona, piemēram, identiskais dvīnis."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Izmantojiet autorizāciju pēc sejas, lai atbloķētu tālruni.
+
+Ņemiet vērā tālāk sniegto informāciju.
+Vienlaikus var iestatīt tikai vienu seju. Lai pievienotu citu seju, dzēsiet pašreizējo seju.
+
+Skatoties uz tālruni, tas var tikt nejauši atbloķēts.
+
+Jūsu tālruni var atbloķēt kāds cits, ja tālrunis tiek pavērsts pret jūsu seju, pat ja jūsu acis ir aizvērtas.
+
+Jūsu tālruni var atbloķēt jums līdzīga persona, piemēram, identiskais dvīnis."</string>
+    <string name="security_settings_face_settings_require_attention_details">Lai varētu atbloķēt tālruni, jūsu acīm ir jābūt atvērtām. Lai būtu vieglāk atbloķēt tālruni, noņemiet saulesbrilles.</string>
+</resources>

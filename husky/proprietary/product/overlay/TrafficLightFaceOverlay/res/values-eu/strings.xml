@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Hurrengo pantailan, eutsi telefonoari begien parean</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Nola konfiguratu Aurpegi bidez desblokeatzea</string>
+    <string name="security_settings_face_enroll_finish_description">Orain, telefonoa har dezakezu, eta aurpegiaren bidez desblokeatu</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Aurpegi bidez desblokeatzeko eginbidea berriro konfiguratu nahi baduzu, lehendabizi ezabatu oraingo aurpegi-eredua.
+
+Aurpegi-eredua betiko eta modu seguruan ezabatuko da.
+
+Ezabatu ondoren, PINa, eredua edo pasahitza beharko duzu telefonoa desblokeatzeko."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Aurpegi bidez desblokeatzeko eginbidea berriro konfiguratu nahi baduzu, lehendabizi ezabatu oraingo aurpegi-eredua.
+
+Aurpegi-eredua betiko eta modu seguruan ezabatuko da.
+
+Ezabatu ondoren, hatz-marka, PINa, eredua edo pasahitza beharko duzu telefonoa desblokeatzeko."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Betaurrekoak erabili ohi badituzu, konfigurazio-prozesuan jantzita eduki ditzakezu.</string>
+    <string name="security_settings_face_enroll_introduction_message">Erabili aurpegia telefonoa desblokeatzeko</string>
+    <string name="security_settings_face_settings_footer">"Erabili aurpegia telefonoa desblokeatzeko.
+
+Kontuan izan:
+Aurpegi bakarra konfigura dezakezu aldiko. Beste aurpegi bat gehitzeko, ezabatu une honetan dagoena.
+
+Telefonoari begiratuz gero, baliteke hura desblokeatzea, horretarako asmorik ez baduzu ere.
+
+Beste norbaitek ere desblokea dezake telefonoa, zuri begira jartzen badu.
+
+Zure antz handia dutenek ere desblokea dezakete telefonoa; esate baterako, biki batek."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Erabili aurpegia telefonoa desblokeatzeko.
+
+Kontuan izan:
+Aurpegi bakarra konfigura dezakezu aldiko. Beste aurpegi bat gehitzeko, ezabatu une honetan dagoena.
+
+Telefonoari begiratuz gero, baliteke hura desblokeatzea, horretarako asmorik ez baduzu ere.
+
+Beste norbaitek ere desblokea dezake telefonoa, zuri begira jartzen badu, nahiz eta zure begiak itxita egon.
+
+Zure antz handia dutenek ere desblokea dezakete telefonoa; esate baterako, biki batek."</string>
+    <string name="security_settings_face_settings_require_attention_details">Begiek irekita egon behar dute telefonoa desblokeatzeko. Hobeto funtziona dezan, kendu eguzkitako betaurrekoak telefonoa desblokeatzeko.</string>
+</resources>

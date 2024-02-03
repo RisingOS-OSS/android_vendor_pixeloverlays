@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Keyingi ekranda telefonni koʻz balandligida tuting</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Yuz bilan ochish qanday sozlanadi</string>
+    <string name="security_settings_face_enroll_finish_description">Endi telefoningizni olib, uni qulfini ochish uchun yuzingizdan foydalanishingiz mumkin</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Joriy yuz modelini oʻchirish va yuz bilan ochishni qayta sozlash.
+
+Yuz modelingiz butunlay va xavfsiz oʻchirib tashlandi.
+
+Oʻchirib tashlangandan keyin telefoningiz qulfini ochish uchun PIN kod, grafik kalit yoki parol kiritishingiz lozim."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Joriy yuz modelini oʻchirish va yuz bilan ochishni qayta sozlash.
+
+Yuz modelingiz butunlay va xavfsiz oʻchirib tashlandi.
+
+Oʻchirib tashlangandan keyin telefoningiz qulfini ochish uchun barmoq izi, PIN kod, grafik kalit yoki parol kiritishingiz lozim."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Agar odatda koʻzoynak taqsangiz, sozlash davomida uni taqishingiz mumkin.</string>
+    <string name="security_settings_face_enroll_introduction_message">Telefonni qulfdan chiqarish uchun yuzingizdan foydalaning</string>
+    <string name="security_settings_face_settings_footer">"Telefonni qulfdan chiqarish uchun yuzingizdan foydalaning.
+
+Eslatma:
+Bir vaqtda faqat bitta yuz sozlanadi. Boshqa yuz kiritish uchun joriysini oʻchirish lozim.
+
+Telefon qulfi unga tasodifan qaralganda yechilishi mumkin.
+
+Begonalar telefoningizni yumilmagan koʻzlaringizga qaratish orqali ham qulfdan chiqarishi mumkin.
+
+Telefon farzandingiz yoki sizga oʻxshagan yaqinlaringiz tomonidan ham qulfdan chiqarilishi mumkin."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Telefonni qulfdan chiqarish uchun yuzingizdan foydalaning.
+
+Eslatma:
+Bir vaqtda faqat bitta yuz sozlanadi. Boshqa yuz kiritish uchun joriysini oʻchirish lozim.
+
+Telefon qulfi unga tasodifan qaralganda yechilishi mumkin.
+
+Begonalar telefoningizni yumilmagan koʻzlaringizga qaratish orqali ham qulfdan chiqarishi mumkin.
+
+Telefon farzandingiz yoki sizga oʻxshagan yaqinlaringiz tomonidan ham qulfdan chiqarilishi mumkin."</string>
+    <string name="security_settings_face_settings_require_attention_details">Telefon qulfini yechish uchun ekranga koʻzlaringizni ochib qarang. Telefon ochilishini osonlashtirish uchun quyosh koʻzoynaklaringizni yechib turing.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">[Öñ ţĥé ñéхţ šçŕééñ, ĥöļð ýöûŕ þĥöñé åţ éýé ļéVéļ one two three four five six]</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">[Ĥöŵ ţö šéţ ûþ Fåçé Ûñļöçķ one two three]</string>
+    <string name="security_settings_face_enroll_finish_description">[Ñöŵ ýöû çåñ þîçķ ûþ ýöûŕ þĥöñé åñð ûšé ýöûŕ ƒåçé ţö ûñļöçķ îţ one two three four five six seven]</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"[Ðéļéţé ýöûŕ çûŕŕéñţ ƒåçé ḿöðéļ ţö šéţ ûþ Fåçé Ûñļöçķ åĝåîñ.
+
+Ýöûŕ ƒåçé ḿöðéļ ŵîļļ ɓé þéŕḿåñéñţļý åñð šéçûŕéļý ðéļéţéð.
+
+Åƒţéŕ ðéļéţîöñ, ýöû ŵîļļ ñééð ýöûŕ ÞÎÑ, þåţţéŕñ, öŕ þåššŵöŕð ţö ûñļöçķ ýöûŕ þĥöñé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"[Ðéļéţé ýöûŕ çûŕŕéñţ ƒåçé ḿöðéļ ţö šéţ ûþ Fåçé Ûñļöçķ åĝåîñ.
+
+Ýöûŕ ƒåçé ḿöðéļ ŵîļļ ɓé þéŕḿåñéñţļý åñð šéçûŕéļý ðéļéţéð.
+
+Åƒţéŕ ðéļéţîöñ, ýöû ŵîļļ ñééð ýöûŕ ƒîñĝéŕþŕîñţ, ÞÎÑ, þåţţéŕñ, öŕ þåššŵöŕð ţö ûñļöçķ ýöûŕ þĥöñé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]"</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">[Îƒ ýöû ñöŕḿåļļý ŵéåŕ éýéĝļåššéš, ýöû çåñ ŵéåŕ ţĥéḿ ðûŕîñĝ šéţûþ. one two three four five six seven]</string>
+    <string name="security_settings_face_enroll_introduction_message">[Ûšé ýöûŕ ƒåçé ţö ûñļöçķ ýöûŕ þĥöñé one two three four]</string>
+    <string name="security_settings_face_settings_footer">"[Ûšé ýöûŕ ƒåçé ţö ûñļöçķ ýöûŕ þĥöñé.
+
+Ķééþ îñ ḿîñð:
+Ýöû çåñ öñļý ĥåVé öñé ƒåçé šéţ ûþ åţ å ţîḿé. Ţö åðð åñöţĥéŕ ƒåçé, ðéļéţé ţĥé çûŕŕéñţ öñé.
+
+Ļööķîñĝ åţ ţĥé þĥöñé çåñ ûñļöçķ îţ ŵĥéñ ýöû ðöñ’ţ îñţéñð ţö.
+
+Ýöûŕ þĥöñé çåñ ɓé ûñļöçķéð ɓý šöḿéöñé éļšé îƒ îţ’š ĥéļð ûþ ţö ýöûŕ ƒåçé.
+
+Ýöûŕ þĥöñé çåñ ɓé ûñļöçķéð ɓý šöḿéöñé ŵĥö ļööķš å ļöţ ļîķé ýöû, ļîķé åñ îðéñţîçåļ šîɓļîñĝ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one]"</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"[Ûšé ýöûŕ ƒåçé ţö ûñļöçķ ýöûŕ þĥöñé.
+
+Ķééþ îñ ḿîñð:
+Ýöû çåñ öñļý ĥåVé öñé ƒåçé šéţ ûþ åţ å ţîḿé. Ţö åðð åñöţĥéŕ ƒåçé, ðéļéţé ţĥé çûŕŕéñţ öñé.
+
+Ļööķîñĝ åţ ţĥé þĥöñé çåñ ûñļöçķ îţ ŵĥéñ ýöû ðöñ’ţ îñţéñð ţö.
+
+Ýöûŕ þĥöñé çåñ ɓé ûñļöçķéð ɓý šöḿéöñé éļšé îƒ îţ’š ĥéļð ûþ ţö ýöûŕ ƒåçé, éVéñ îƒ ýöûŕ éýéš åŕé çļöšéð.
+
+Ýöûŕ þĥöñé çåñ ɓé ûñļöçķéð ɓý šöḿéöñé ŵĥö ļööķš å ļöţ ļîķé ýöû, ļîķé åñ îðéñţîçåļ šîɓļîñĝ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven]"</string>
+    <string name="security_settings_face_settings_require_attention_details">[Ţö ûñļöçķ ţĥé þĥöñé, ýöûŕ éýéš ḿûšţ ɓé öþéñ. Föŕ ɓéšţ ŕéšûļţš, ţåķé öƒƒ šûñĝļåššéš ŵĥéñ ûñļöçķîñĝ ţĥé þĥöñé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]</string>
+</resources>

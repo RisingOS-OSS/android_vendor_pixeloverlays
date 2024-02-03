@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Na seguinte pantalla, coloca o teléfono á altura dos ollos</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Como configurar o desbloqueo facial?</string>
+    <string name="security_settings_face_enroll_finish_description">Agora podes coller o teléfono e usar a cara para desbloquealo</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Elimina o modelo facial actual para volver configurar o desbloqueo facial.
+
+O teu modelo facial eliminarase de xeito seguro e permanente.
+
+Unha vez eliminado, terás que usar o PIN, o padrón ou o contrasinal para desbloquear o teléfono."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Elimina o modelo facial actual para volver configurar o desbloqueo facial.
+
+O teu modelo facial eliminarase de xeito seguro e permanente.
+
+Unha vez eliminado, terás que usar a impresión dixital, o PIN, o padrón ou o contrasinal para desbloquear o teléfono."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Se adoitas levar lentes, podes poñelas durante a configuración.</string>
+    <string name="security_settings_face_enroll_introduction_message">Usa o recoñecemento facial para desbloquear o teléfono</string>
+    <string name="security_settings_face_settings_footer">"Usa o recoñecemento facial para desbloquear o teléfono.
+
+Nota:
+Non podes ter varias caras configuradas á vez. Se queres engadir outra, elimina a actual.
+
+Ao mirar o teléfono, podes desbloquealo sen querer.
+
+Outra persoa pode desbloquealo se che pon o teléfono diante da cara.
+
+Tamén pode desbloquealo alguén que se pareza moito a ti, como un xemelgo."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Usa o recoñecemento facial para desbloquear o teléfono.
+
+Nota:
+Non podes ter varias caras configuradas á vez. Se queres engadir outra, elimina a actual.
+
+Ao mirar o teléfono, podes desbloquealo sen querer.
+
+Outra persoa pode desbloquealo se che pon o teléfono diante da cara, aínda que teñas os ollos pechados.
+
+Tamén pode desbloquealo alguén que se pareza moito a ti, como un xemelgo."</string>
+    <string name="security_settings_face_settings_require_attention_details">Se queres desbloquear o teléfono, debes ter os ollos abertos. Para obter os mellores resultados, quita as lentes de sol cando vaias desbloquealo.</string>
+</resources>
