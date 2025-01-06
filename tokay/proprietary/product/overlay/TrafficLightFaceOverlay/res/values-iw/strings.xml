@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="security_settings_face_enroll_education_message">במסך הבא יש להחזיק את הטלפון בגובה העיניים</string>
-    <string name="security_settings_face_enroll_education_title_accessibility">איך להגדיר פתיחה ע\"י זיהוי הפנים</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">איך להגדיר פתיחה בזיהוי הפנים</string>
     <string name="security_settings_face_enroll_finish_description">עכשיו אפשר להשתמש בפנים שלך כדי לבטל את נעילת הטלפון</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"כדי להגדיר שוב את התכונה 'פתיחה ע\"י זיהוי הפנים', עליך למחוק את התבנית הנוכחית לזיהוי הפנים.
 
