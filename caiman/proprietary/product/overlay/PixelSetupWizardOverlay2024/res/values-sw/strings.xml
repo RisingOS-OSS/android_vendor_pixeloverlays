@@ -6,7 +6,7 @@ Baada ya kuweka mipangilio kwenye simu yako, bonyeza na ushikilie tu kitufe cha 
     <string name="assistant_title">Gemini, kiratibu chako kinachotumia AI kilichojumuishwa</string>
     <string name="moment_activity_item_add_me_summary">Hakikisha kila mtu anaonekana kwenye picha ya kikundi</string>
     <string name="moment_activity_item_add_me_title">Niongeze</string>
-    <string name="moment_activity_item_chat_summary">Kiratibu chako kinachotumia AI kilichojumuishwa</string>
+    <string name="moment_activity_item_chat_summary">Kiratibu chako kinachotumia AI kimejumuishwa</string>
     <string name="moment_activity_item_circle_summary">Tafuta kilicho kwenye skrini yako</string>
     <string name="moment_activity_item_circle_title">Chora Mviringo ili Kutafuta</string>
     <string name="moment_activity_item_imagine_summary">Unafikiria kuhusu kitu fulani. Pixel inakibuni.</string>

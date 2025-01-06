@@ -9,7 +9,7 @@ Depois de configurar o telemóvel, basta premir sem soltar o botão ligar/deslig
     <string name="moment_activity_item_chat_summary">O seu assistente de IA incorporado</string>
     <string name="moment_activity_item_circle_summary">Pesquise o conteúdo apresentado no ecrã</string>
     <string name="moment_activity_item_circle_title">Circundar para Pesquisar</string>
-    <string name="moment_activity_item_imagine_summary">O utilizador imagina. O Pixel cria-o.</string>
+    <string name="moment_activity_item_imagine_summary">Só tem de imaginar. O Pixel cria-o.</string>
     <string name="moment_activity_item_imagine_title">Studio</string>
     <string name="moment_activity_item_memory_summary">Encontre as informações necessárias nas suas capturas de ecrã</string>
     <string name="moment_description">Pesquise, guarde e organize informações, realize tarefas e dê asas à criatividade</string>

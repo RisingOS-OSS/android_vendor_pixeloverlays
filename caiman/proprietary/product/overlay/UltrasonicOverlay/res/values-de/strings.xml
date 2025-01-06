@@ -3,7 +3,7 @@
     <string name="fingerprint_acquired_imager_dirty_udfps">Reinige das Display in der Nähe des Sensors</string>
     <string name="fingerprint_udfps_pre_enroll_runner_dialog_message">Wische das Display ab, um Schlieren, Staub oder Flecke zu entfernen. Dadurch kann dein Fingerabdruck klarer erfasst werden.</string>
     <string name="fingerprint_udfps_pre_enroll_runner_dialog_title">Display reinigen, bevor du fortfährst</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">"Wenn du einen Displayschutz verwenden möchtest, solltest du ihn aufbringen, bevor du deinen Fingerabdruck einrichtest, damit der Sensor richtig funktioniert.
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">"Wenn du einen Displayschutz verwenden möchtest, solltest du ihn anbringen, bevor du deinen Fingerabdruck einrichtest, damit der Sensor richtig funktioniert.
 
 Die besten Ergebnisse erzielst du mit „Made for Google“-zertifizierten Displayschutzprodukten. Bei anderen Displayschutzprodukten wird dein Fingerabdruck möglicherweise nicht erkannt."</string>
     <string name="security_settings_udfps_enroll_fingertip_title">Mit der Fingerspitze berühren</string>

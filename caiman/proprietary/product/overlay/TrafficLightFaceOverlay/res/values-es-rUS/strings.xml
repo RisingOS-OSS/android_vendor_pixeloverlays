@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="security_settings_face_enroll_education_message">En la pantalla siguiente, sostén el teléfono a la altura de los ojos.</string>
+    <string name="security_settings_face_enroll_education_message">En la pantalla siguiente, sostén el teléfono a la altura de los ojos</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Cómo configurar Desbloqueo facial</string>
     <string name="security_settings_face_enroll_finish_description">Ahora puedes tomar tu teléfono y usar el rostro para desbloquearlo</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"Borra tu modelo de rostro actual para volver a configurar Desbloqueo facial.

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="config_avatar_picker_package">com.google.android.avatarpicker</string>
     <string name="display_white_balance_summary">Dynamically adapts the display to warmer or cooler tones based on ambient lighting</string>
     <string name="display_white_balance_title">Adaptive tone</string>
     <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Password</string>
