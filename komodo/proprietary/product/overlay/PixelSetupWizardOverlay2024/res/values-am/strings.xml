@@ -3,10 +3,10 @@
     <string name="assistant_description">"በስልክዎ ላይ እንዳለው ረዳት Gemini የአመሰግናለሁ ማስታወሻዎችን እንዲጽፉ፣ ክስተቶችን እንዲያቅዱ፣ አዲስ ነገሮችን እንዲማሩ፣ ማንቂያዎችን እንዲያቀናብሩ፣ ጥሪዎች እንዲያደርጉ እና ለሌሎችም ሊያግዝዎ ይችላል።
 
 ስልክዎን ካዋቀሩ በኋላ Gemini ለመጀመር የማብሪያ/ማጥፊያ ቁልፍን ተጭነው ይያዙ።"</string>
-    <string name="assistant_title">Gemini፣ የእርስዎ AI ረዳት አብሮ ገነብ</string>
+    <string name="assistant_title">Gemini፣ የእርስዎ ሰው ሠራሽ አስተውሎት ረዳት አብሮ ገነብ</string>
     <string name="moment_activity_item_add_me_summary">ሁሉም ሰው በቡድን ፎቶ ውስጥ እንደተካተተ ያረጋግጡ</string>
     <string name="moment_activity_item_add_me_title">እኔን አክል</string>
-    <string name="moment_activity_item_chat_summary">የእርስዎ አብሮ ገነብ AI ረዳት</string>
+    <string name="moment_activity_item_chat_summary">የእርስዎ አብሮ ገነብ ሰው ሠራሽ አስተውሎት ረዳት</string>
     <string name="moment_activity_item_circle_summary">በማያ ገፅዎ ላይ ያለውን ይፈልጉ</string>
     <string name="moment_activity_item_circle_title">ለመፈለግ ያክብቡ</string>
     <string name="moment_activity_item_imagine_summary">ያስቡት። Pixel ይፈጥረዋል።</string>

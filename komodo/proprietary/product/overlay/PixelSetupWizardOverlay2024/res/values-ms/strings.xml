@@ -4,7 +4,7 @@
 
 Selepas menyediakan telefon anda, tekan &amp; tahan butang kuasa untuk mula menggunakan Gemini."</string>
     <string name="assistant_title">Gemini, pembantu AI terbina dalam anda</string>
-    <string name="moment_activity_item_add_me_summary">Pastikan semua orang boleh dilihat dalam foto kumpulan</string>
+    <string name="moment_activity_item_add_me_summary">Pastikan semua orang berada dalam foto kumpulan</string>
     <string name="moment_activity_item_add_me_title">Tambahkan Saya</string>
     <string name="moment_activity_item_chat_summary">Pembantu AI terbina dalam anda</string>
     <string name="moment_activity_item_circle_summary">Cari kandungan yang dipaparkan pada skrin anda</string>
@@ -13,5 +13,5 @@ Selepas menyediakan telefon anda, tekan &amp; tahan butang kuasa untuk mula meng
     <string name="moment_activity_item_imagine_title">Studio</string>
     <string name="moment_activity_item_memory_summary">Cari maklumat yang anda perlukan daripada tangkapan skrin anda</string>
     <string name="moment_description">Cari, simpan dan susun maklumat, siapkan tugas serta mulakan kreativiti</string>
-    <string name="moment_title">Temukan Google AI dengan prestasi yang terbaik</string>
+    <string name="moment_title">Cuba prestasi terbaik Google AI</string>
 </resources>

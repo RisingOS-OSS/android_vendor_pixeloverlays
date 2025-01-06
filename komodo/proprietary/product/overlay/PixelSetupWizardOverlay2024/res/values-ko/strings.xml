@@ -4,7 +4,7 @@
 
 휴대전화를 설정한 후 전원 버튼을 길게 눌러 Gemini 사용을 시작해 보세요."</string>
     <string name="assistant_title">기본 제공 AI 어시스턴트 Gemini입니다</string>
-    <string name="moment_activity_item_add_me_summary">모든 사람이 그룹 사진에 포함되어 있는지 확인하세요.</string>
+    <string name="moment_activity_item_add_me_summary">단체 사진에 빠진 사람을 추가할 수 있는 기능입니다.</string>
     <string name="moment_activity_item_add_me_title">그룹 사진 합성</string>
     <string name="moment_activity_item_chat_summary">기본 제공 AI 어시스턴트입니다.</string>
     <string name="moment_activity_item_circle_summary">화면에 표시된 내용을 검색합니다.</string>
