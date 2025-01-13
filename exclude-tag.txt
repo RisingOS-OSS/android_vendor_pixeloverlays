@@ -58,3 +58,5 @@ string:config_bodyFontFamilyMedium
 string:config_clockFontFamily
 string:config_headlineFontFamily
 string:config_headlineFontFamilyMedium
+string:apn_source_service
+string:platform_carrier_config_package
