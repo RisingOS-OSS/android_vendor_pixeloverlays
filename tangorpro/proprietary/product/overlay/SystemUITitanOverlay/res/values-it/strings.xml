@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">"Google sta proteggendo questa connessione attraverso l'invio di dati tramite i suoi server"</string>
+    <string name="branded_vpn_footer">Connessione protetta da Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Tocca delicatamente il sensore di impronte digitali</string>
+    <string name="settingslib_learn_more_text">"Scopri di più sullo sblocco con l'impronta"</string>
+</resources>

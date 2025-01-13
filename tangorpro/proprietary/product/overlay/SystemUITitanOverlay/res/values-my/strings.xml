@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google က ၎င်း၏ ဆာဗာများမှတစ်ဆင့် အချက်အလက်များ ပေးပို့ခြင်းဖြင့် ဤချိတ်ဆက်မှုကို လုံခြုံစေရန် ပြုလုပ်ပေးနေသည်</string>
+    <string name="branded_vpn_footer">ချိတ်ဆက်မှု လုံခြုံစေရန် Google က ပြုလုပ်ထားသည်</string>
+    <string name="fingerprint_dialog_touch_sensor">လက်ဗွေအာရုံခံကိရိယာကို အသာထိပါ</string>
+    <string name="settingslib_learn_more_text">‘လက်ဗွေသုံး လော့ခ်ဖွင့်ခြင်း’ အကြောင်း ပိုမိုလေ့လာရန်</string>
+</resources>

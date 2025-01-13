@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google protegeix aquesta connexió enviant les dades a través dels seus servidors</string>
+    <string name="branded_vpn_footer">Connexió protegida per Google</string>
+    <string name="fingerprint_dialog_touch_sensor">"Toca lleugerament el sensor d'empremtes digitals"</string>
+    <string name="settingslib_learn_more_text">Més informació sobre Desbloqueig amb empremta digital</string>
+</resources>

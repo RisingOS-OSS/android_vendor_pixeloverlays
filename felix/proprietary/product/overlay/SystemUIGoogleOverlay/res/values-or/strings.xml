@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google ଏହାର ସର୍ଭରଗୁଡ଼ିକ ମାଧ୍ୟମରେ ଡାଟା ପଠାଇ ଏହି ସଂଯୋଗକୁ ସୁରକ୍ଷିତ କରୁଛି</string>
+    <string name="branded_vpn_footer">Google ଦ୍ୱାରା ସଂଯୋଗ ସୁରକ୍ଷିତ ଅଛି</string>
+    <string name="fingerprint_dialog_touch_sensor">ଟିପଚିହ୍ନ ସେନ୍ସରକୁ ଧୀରେ ସ୍ପର୍ଶ କରନ୍ତୁ</string>
+    <string name="settingslib_learn_more_text">ଫିଙ୍ଗରପ୍ରିଣ୍ଟ ଅନଲକ ବିଷୟରେ ଅଧିକ ଜାଣନ୍ତୁ</string>
+</resources>

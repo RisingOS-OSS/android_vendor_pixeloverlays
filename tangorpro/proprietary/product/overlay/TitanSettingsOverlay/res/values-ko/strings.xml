@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">허브 모드</string>
+    <string name="dream_no_screen_saver_caption">화면 보호기 없음</string>
+    <string name="dream_no_screen_saver_description">활동이 없으면 에너지를 절약하기 위해 화면이 꺼집니다.</string>
+    <string name="dream_no_screen_saver_preview_caption">친환경</string>
+    <string name="dream_secondary_button_title">건너뛰기</string>
+    <string name="screensaver_settings_summary_off">유휴 상태일 때 좋아하는 사진, 예술작품, 시계 등을 표시합니다.</string>
+</resources>

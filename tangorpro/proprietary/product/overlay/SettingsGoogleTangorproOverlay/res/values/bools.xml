@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_allow_sensitive_lockscreen_content">false</bool>
+</resources>

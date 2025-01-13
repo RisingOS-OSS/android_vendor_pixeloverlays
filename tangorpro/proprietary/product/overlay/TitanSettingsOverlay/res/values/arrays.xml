@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_preinstalled_dream_components">
+        <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.PersonalPhotoDreamService</item>
+        <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.CuratedPhotoDreamService</item>
+        <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.ClockFacesDreamService</item>
+        <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.WeatherClockDreamService</item>
+        <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.FroggyDreamService</item>
+    </string-array>
+</resources>

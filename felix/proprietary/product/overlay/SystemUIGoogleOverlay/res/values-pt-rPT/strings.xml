@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">A Google está a proteger esta ligação ao enviar dados através dos respetivos servidores.</string>
+    <string name="branded_vpn_footer">Ligação protegida pela Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Toque levemente no sensor de impressões digitais</string>
+    <string name="settingslib_learn_more_text">Saiba mais sobre o Desbloqueio por impressão digital</string>
+</resources>

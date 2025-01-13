@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google sẽ đảm bảo an toàn cho đường kết nối này bằng cách gửi dữ liệu thông qua máy chủ</string>
+    <string name="branded_vpn_footer">Đường kết nối được Google đảm bảo</string>
+    <string name="fingerprint_dialog_touch_sensor">Chạm nhẹ vào cảm biến vân tay</string>
+    <string name="settingslib_learn_more_text">Tìm hiểu thêm về tính năng Mở khoá bằng vân tay</string>
+</resources>

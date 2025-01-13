@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Mode Hub</string>
+    <string name="dream_no_screen_saver_caption">Cap estalvi de pantalla</string>
+    <string name="dream_no_screen_saver_description">Per estalviar energia, la pantalla es desactivarà si no hi ha activitat</string>
+    <string name="dream_no_screen_saver_preview_caption">Ecològic</string>
+    <string name="dream_secondary_button_title">Omet</string>
+    <string name="screensaver_settings_summary_off">"Quan no hi hagi activitat, mostra fotos preferides, obres d'art, rellotges i més"</string>
+</resources>

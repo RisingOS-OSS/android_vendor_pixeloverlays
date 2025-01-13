@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google muudab selle ühenduse turvaliseks, saates andmeid oma serverite kaudu</string>
+    <string name="branded_vpn_footer">"Google'i turvatud ühendus"</string>
+    <string name="fingerprint_dialog_touch_sensor">Puudutage õrnalt sõrmejäljeandurit</string>
+    <string name="settingslib_learn_more_text">Vaadake lisateavet sõrmejäljega avamise kohta</string>
+</resources>

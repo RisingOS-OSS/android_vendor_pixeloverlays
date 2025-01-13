@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google ກຳລັງເຂົ້າລະຫັດການເຊື່ອມຕໍ່ນີ້ໂດຍການສົ່ງຂໍ້ມູນຜ່ານເຊີບເວີຂອງມັນ</string>
+    <string name="branded_vpn_footer">ເຂົ້າລະຫັດການເຊື່ອມຕໍ່ໂດຍ Google ແລ້ວ</string>
+    <string name="fingerprint_dialog_touch_sensor">ແຕະໃສ່ເຊັນ​ເຊີລາຍນິ້ວ​ມືຄ່ອຍໆ</string>
+    <string name="settingslib_learn_more_text">ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການປົດລັອກດ້ວຍລາຍນິ້ວມື</string>
+</resources>

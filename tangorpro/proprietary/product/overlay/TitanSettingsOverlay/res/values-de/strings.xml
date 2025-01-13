@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub-Modus</string>
+    <string name="dream_no_screen_saver_caption">Kein Bildschirmschoner</string>
+    <string name="dream_no_screen_saver_description">Dein Bildschirm wird nach einer bestimmten Zeit ohne Aktivität ausgeschaltet, um Strom zu sparen</string>
+    <string name="dream_no_screen_saver_preview_caption">Umweltfreundlich</string>
+    <string name="dream_secondary_button_title">Überspringen</string>
+    <string name="screensaver_settings_summary_off">Bei Inaktivität Lieblingsfotos, Kunstwerke oder Uhren anzeigen</string>
+</resources>

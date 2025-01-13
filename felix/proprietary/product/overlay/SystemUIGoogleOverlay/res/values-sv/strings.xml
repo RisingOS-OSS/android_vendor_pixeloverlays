@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google skyddar den här anslutningen genom att skicka data via sina servrar</string>
+    <string name="branded_vpn_footer">Anslutningen skyddas av Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Håll fingret mot fingeravtryckssensorn</string>
+    <string name="settingslib_learn_more_text">Läs mer om fingeravtryckslås</string>
+</resources>

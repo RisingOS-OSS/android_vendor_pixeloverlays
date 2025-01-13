@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_communalSourceComponent">com.google.assistant.hubui/com.google.assistant.surfaces.dragonglass.opal.lockscreenservice.LockScreenService</string>
+    <string name="config_communalSourceConnector">com.google.android.systemui.communal.projection.CommunalSourceImpl$Connector</string>
+    <string name="config_dock_setup_v2_service_component">com.google.android.docksetup/.services.DockSetupService</string>
+    <string name="config_lowLightDreamComponent">com.android.systemui/com.google.android.systemui.lowlightclock.LowLightClockDreamService</string>
+    <string name="config_media_shell_service_component">com.google.android.apps.mediashell/.MediaShellCastReceiverService</string>
+    <string name="config_nest_dock_manager_service_component">com.google.android.apps.nest.dockmanager.app/.service.DockManagerAndroidService</string>
+    <string name="dock_setup_notification_text">Choose a screen saver and turn on hands-free help while your tablet is docked</string>
+    <string name="dock_setup_notification_title">Do more while docked</string>
+    <string name="doze_brightness_sensor_type">com.google.sensor.binned_brightness</string>
+    <string name="proximity_sensor_type"/>
+    <string name="stylus_system_update_notification_text">To make the most of your stylus, install the latest Android update</string>
+    <string name="stylus_system_update_notification_title">Install Android update</string>
+</resources>

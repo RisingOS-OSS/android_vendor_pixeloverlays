@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Modalità Hub</string>
+    <string name="dream_no_screen_saver_caption">Nessun salvaschermo</string>
+    <string name="dream_no_screen_saver_description">Per risparmiare energia, lo schermo viene disattivato dopo un periodo di inattività</string>
+    <string name="dream_no_screen_saver_preview_caption">"Attenzione all'ambiente"</string>
+    <string name="dream_secondary_button_title">Salta</string>
+    <string name="screensaver_settings_summary_off">"Quando è inattivo, mostra le foto, le opere d'arte e gli orologi che preferisci e altro ancora"</string>
+</resources>

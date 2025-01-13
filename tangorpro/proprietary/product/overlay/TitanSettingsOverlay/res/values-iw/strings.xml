@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">‏מצב Hub</string>
+    <string name="dream_no_screen_saver_caption">ללא שומר מסך</string>
+    <string name="dream_no_screen_saver_description">כדי לחסוך באנרגיה, המסך יכבה לאחר פרק זמן מסוים שלא בוצעה בו שום פעולה</string>
+    <string name="dream_no_screen_saver_preview_caption">ידידותי לסביבה</string>
+    <string name="dream_secondary_button_title">דילוג</string>
+    <string name="screensaver_settings_summary_off">כשהמכשיר לא פעיל כבר כמה זמן יוצגו תמונות מועדפות, יצירות אומנות, שעונים ועוד</string>
+</resources>

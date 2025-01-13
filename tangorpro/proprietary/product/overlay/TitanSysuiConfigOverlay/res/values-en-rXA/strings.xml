@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dock_setup_notification_text">[Çĥööšé å šçŕééñ šåVéŕ åñð ţûŕñ öñ ĥåñðš-ƒŕéé ĥéļþ ŵĥîļé ýöûŕ ţåɓļéţ îš ðöçķéð one two three four five six seven eight]</string>
+    <string name="dock_setup_notification_title">[Ðö ḿöŕé ŵĥîļé ðöçķéð one two three]</string>
+    <string name="stylus_system_update_notification_text">[Ţö ḿåķé ţĥé ḿöšţ öƒ ýöûŕ šţýļûš, îñšţåļļ ţĥé ļåţéšţ Åñðŕöîð ûþðåţé one two three four five six seven eight]</string>
+    <string name="stylus_system_update_notification_title">[Îñšţåļļ Åñðŕöîð ûþðåţé one two three]</string>
+</resources>

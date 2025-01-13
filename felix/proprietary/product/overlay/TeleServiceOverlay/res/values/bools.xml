@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_support_simless_emergency_rtt">true</bool>
+    <bool name="config_use_device_to_device_communication">true</bool>
+</resources>

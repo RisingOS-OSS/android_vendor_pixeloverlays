@@ -4,7 +4,7 @@
         <item>36</item>
     </integer-array>
     <integer-array name="antenna_y">
-        <item>106</item>
+        <item>61</item>
     </integer-array>
     <string-array name="config_skuSupportsSecureNfc">
         <item>G8V0U</item>

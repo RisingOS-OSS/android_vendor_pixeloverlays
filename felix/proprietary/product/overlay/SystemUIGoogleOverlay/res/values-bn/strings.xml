@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google তার সার্ভারের মাধ্যমে ডেটা পাঠিয়ে কানেকশন সুরক্ষিত করছে</string>
+    <string name="branded_vpn_footer">Google দ্বারা সুরক্ষিত কানেকশন</string>
+    <string name="fingerprint_dialog_touch_sensor">ফিঙ্গারপ্রিন্ট সেন্সর হালকা করে টাচ করুন</string>
+    <string name="settingslib_learn_more_text">"'ফিঙ্গারপ্রিন্ট আনলক' ফিচার সম্পর্কে আরও জানুন"</string>
+</resources>

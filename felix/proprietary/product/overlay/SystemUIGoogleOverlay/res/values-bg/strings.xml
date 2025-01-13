@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google обезпечава сигурността на тази връзка, като изпраща данните чрез сървърите си</string>
+    <string name="branded_vpn_footer">Връзка, защитена от Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Леко докоснете сензора за отпечатъци</string>
+    <string name="settingslib_learn_more_text">Научете повече за „Отключване с отпечатък“</string>
+</resources>

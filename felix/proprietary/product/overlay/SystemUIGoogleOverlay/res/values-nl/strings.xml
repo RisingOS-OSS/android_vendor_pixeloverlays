@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google beveiligt deze verbinding door gegevens via Google-servers te verzenden</string>
+    <string name="branded_vpn_footer">Verbinding beveiligd door Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Raak de vingerafdruksensor licht aan</string>
+    <string name="settingslib_learn_more_text">Meer informatie over ontgrendelen met vingerafdruk</string>
+</resources>

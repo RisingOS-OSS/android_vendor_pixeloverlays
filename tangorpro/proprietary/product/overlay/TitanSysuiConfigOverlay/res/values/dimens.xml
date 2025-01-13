@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="burn_in_prevention_offset_x">0.0dip</dimen>
+    <dimen name="burn_in_prevention_offset_y">0.0dip</dimen>
+    <dimen name="burn_in_prevention_offset_y_clock">0.0dip</dimen>
+    <dimen name="dream_overlay_complication_margin">24.0dip</dimen>
+    <dimen name="dream_overlay_container_padding_bottom">40.0dip</dimen>
+    <dimen name="dream_overlay_container_padding_end">40.0dip</dimen>
+    <dimen name="dream_overlay_container_padding_start">40.0dip</dimen>
+    <dimen name="dream_overlay_container_padding_top">0.0dip</dimen>
+    <dimen name="keyguard_affordance_fixed_height">64.0dip</dimen>
+    <dimen name="keyguard_affordance_fixed_padding">14.0dip</dimen>
+    <dimen name="keyguard_affordance_fixed_radius">32.0dip</dimen>
+    <dimen name="keyguard_affordance_fixed_width">64.0dip</dimen>
+    <dimen name="keyguard_affordance_horizontal_offset">40.0dip</dimen>
+    <dimen name="keyguard_affordance_vertical_offset">40.0dip</dimen>
+</resources>

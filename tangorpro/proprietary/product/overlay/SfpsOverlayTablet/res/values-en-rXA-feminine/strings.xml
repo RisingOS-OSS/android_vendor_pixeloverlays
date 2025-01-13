@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">(F)[Þåššŵöŕð • Fîñĝéŕþŕîñţ one two three]</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">(F)[Þåţţéŕñ • Fîñĝéŕþŕîñţ one two three]</string>
+    <string name="fingerprint_unlock_set_unlock_pin">(F)[ÞÎÑ • Fîñĝéŕþŕîñţ one two three]</string>
+    <string name="fingerprint_unlock_skip_fingerprint">(F)[Çöñţîñûé ŵîţĥöûţ Fîñĝéŕþŕîñţ Ûñļöçķ one two three four]</string>
+    <string name="fingerprint_unlock_title">(F)[Ŵîţĥ Fîñĝéŕþŕîñţ Ûñļöçķ, ýöû çåñ ûñļöçķ ýöûŕ ţåɓļéţ ûšîñĝ ýöûŕ ƒîñĝéŕþŕîñţ. Föŕ šéçûŕîţý, ţĥîš öþţîöñ ŕéQûîŕéš å ɓåçķûþ šçŕééñ ļöçķ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three]</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">(F)[Åļļöŵ Fîñĝéŕþŕîñţ Ûñļöçķ one two three]</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"(F)[Ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ îš öñ ţĥé Þöŵéŕ ɓûţţöñ.
+
+Ļîĝĥţļý ţöûçĥ ţĥé ɓûţţöñ ŵîţĥöûţ þŕéššîñĝ îţ ðöŵñ. one two three four five six seven eight nine ten eleven]"</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_title">(F)[Ţöûçĥ ţĥé Þöŵéŕ ɓûţţöñ one two three]</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">(F)[Šéţ ûþ Fîñĝéŕþŕîñţ Ûñļöçķ one two three]</string>
+    <string name="security_settings_fingerprint_enroll_repeat_title">(F)[Ļîƒţ, ţĥéñ ţöûçĥ. ḾöVé ýöûŕ ƒîñĝéŕ šļîĝĥţļý éåçĥ ţîḿé. one two three four five six seven]</string>
+    <string name="security_settings_fingerprint_enroll_repeat_title_immobile_overlay">(F)[Ļîƒţ, ţĥéñ ţöûçĥ åĝåîñ one two three]</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">(F)[Ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ îš öñ ţĥé þöŵéŕ ɓûţţöñ. one two three four five six]</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_title">(F)[Ţöûçĥ ţĥé šéñšöŕ îñšţéåð one two three]</string>
+    <string name="security_settings_fingerprint_preference_title">(F)[Fîñĝéŕþŕîñţ Ûñļöçķ one two three]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">(F)[Fîñĝéŕþŕîñţ Ûñļöçķ çŕéåţéš å ûñîQûé ḿöðéļ öƒ ýöûŕ ƒîñĝéŕþŕîñţ ţö Véŕîƒý îţ’š ýöû. Ţö çŕéåţé ţĥîš ƒîñĝéŕþŕîñţ ḿöðéļ ðûŕîñĝ šéţûþ, ýöû ŵîļļ ţåķé îḿåĝéš öƒ ýöûŕ ƒîñĝéŕþŕîñţ ƒŕöḿ ðîƒƒéŕéñţ þöšîţîöñš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">(F)[Ŵĥéñ ýöû ûšé Fîñĝéŕþŕîñţ Ûñļöçķ, îḿåĝéš åŕé ûšéð ţö ûþðåţé ýöûŕ ƒîñĝéŕþŕîñţ ḿöðéļ. Îḿåĝéš ûšéð ţö çŕéåţé ýöûŕ ƒîñĝéŕþŕîñţ ḿöðéļ åŕé ñéVéŕ šţöŕéð, ɓûţ ţĥé ƒîñĝéŕþŕîñţ ḿöðéļ îš šţöŕéð šéçûŕéļý öñ ýöûŕ ţåɓļéţ åñð ñéVéŕ ļéåVéš ţĥé ţåɓļéţ. Åļļ þŕöçéššîñĝ öççûŕš šéçûŕéļý öñ ýöûŕ ţåɓļéţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">(F)[Ýöû çåñ ðéļéţé ýöûŕ ƒîñĝéŕþŕîñţ ḿöðéļ, öŕ ţûŕñ öƒƒ Fîñĝéŕþŕîñţ Ûñļöçķ åţ åñý ţîḿé îñ Šéţţîñĝš. Fîñĝéŕþŕîñţ ḿöðéļš åŕé šţöŕéð öñ ţĥé ţåɓļéţ ûñţîļ ýöû ðéļéţé ţĥéḿ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">(F)[Fîñĝéŕþŕîñţ Ûñļöçķ çŕéåţéš å ûñîQûé ḿöðéļ öƒ ýöûŕ çĥîļð’š ƒîñĝéŕþŕîñţ ţö Véŕîƒý îţ’š ţĥéḿ. Ţö çŕéåţé ţĥîš ƒîñĝéŕþŕîñţ ḿöðéļ ðûŕîñĝ šéţûþ, ţĥéý ŵîļļ ţåķé îḿåĝéš öƒ ţĥéîŕ ƒîñĝéŕþŕîñţ ƒŕöḿ ðîƒƒéŕéñţ þöšîţîöñš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">(F)[Ŵĥéñ ţĥéý ûšé Fîñĝéŕþŕîñţ Ûñļöçķ, îḿåĝéš åŕé ûšéð ţö ûþðåţé ţĥéîŕ ƒîñĝéŕþŕîñţ ḿöðéļ. Îḿåĝéš ûšéð ţö çŕéåţé ýöûŕ çĥîļð’š ƒîñĝéŕþŕîñţ ḿöðéļ åŕé ñéVéŕ šţöŕéð, ɓûţ ţĥé ƒîñĝéŕþŕîñţ ḿöðéļ îš šţöŕéð šéçûŕéļý öñ ţĥé ţåɓļéţ åñð ñéVéŕ ļéåVéš ţĥé ţåɓļéţ. Åļļ þŕöçéššîñĝ öççûŕš šéçûŕéļý öñ ţĥé ţåɓļéţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">(F)[Ýöû åñð ýöûŕ çĥîļð çåñ ðéļéţé ţĥéîŕ ƒîñĝéŕþŕîñţ ḿöðéļ, öŕ ţûŕñ öƒƒ Fîñĝéŕþŕîñţ Ûñļöçķ åţ åñý ţîḿé îñ Šéţţîñĝš. Fîñĝéŕþŕîñţ ḿöðéļš åŕé šţöŕéð öñ ţĥé ţåɓļéţ ûñţîļ ţĥéý’ŕé ðéļéţéð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">"(F)[Ļéåŕñ ḿöŕé åţ &lt;a href='http://g.co/pixeltablet/fingerprintunlock'&gt;ĝ.çö/þîхéļţåɓļéţ/ƒîñĝéŕþŕîñţûñļöçķ&lt;/a&gt;. one two three four five six]"</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message">(F)[Ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ îš öñ ţĥé þöŵéŕ ɓûţţöñ. Îţ’š ţĥé šĥöŕţéŕ ɓûţţöñ öñ ţĥé šîðé öƒ ţĥé þĥöñé. one two three four five six seven eight nine ten eleven]</string>
+    <string name="security_settings_sfps_enroll_finger_center_title_immobile_overlay">(F)[ḾöVé ýöûŕ ƒîñĝéŕ šļîĝĥţļý éåçĥ ţîḿé one two three four]</string>
+    <string name="security_settings_sfps_enroll_fingertip_title_immobile_overlay">(F)[Ķééþ ḿöVîñĝ ţö çåþţûŕé öţĥéŕ åŕéåš öƒ ýöûŕ ƒîñĝéŕþŕîñţ one two three four five six seven]</string>
+    <string name="security_settings_sfps_enroll_finish_rest_to_unlock_desc">(F)[Ţĥîš ḿåķéš åççîðéñţåļ ûñļöçķîñĝ ļéšš ļîķéļý. Ŵĥéñ ţĥîš šéţţîñĝ îš ţûŕñéð öƒƒ, ɓŕîéƒļý ţöûçĥîñĝ ţĥé šéñšöŕ ŵîļļ ûñļöçķ. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="security_settings_sfps_enroll_finish_rest_to_unlock_title">(F)[Ŕéšţ öñ šéñšöŕ ţö ûñļöçķ one two three]</string>
+    <string name="security_settings_sfps_enroll_left_edge_title_immobile_overlay">(F)[Ţöûçĥ ţĥé šéñšöŕ ƒŕöḿ åñöţĥéŕ åñĝļé one two three four]</string>
+    <string name="security_settings_sfps_enroll_right_edge_title_immobile_overlay">(F)[ḾöVé ýöûŕ ƒîñĝéŕ ţö çåþţûŕé öţĥéŕ åŕéåš öƒ ýöûŕ ƒîñĝéŕþŕîñţ one two three four five six seven]</string>
+    <string name="security_settings_work_fingerprint_preference_title">(F)[Fîñĝéŕþŕîñţ Ûñļöçķ ƒöŕ ŵöŕķ one two three four]</string>
+    <string name="setup_fingerprint_enroll_immobile_help_continue">(F)[Çöñţîñûé šéţûþ one two three]</string>
+    <string name="setup_fingerprint_enroll_immobile_help_subtitle">(F)[Ţĥîš ĥéļþš çåþţûŕé ḿöŕé öƒ ýöûŕ ƒîñĝéŕþŕîñţ ƒöŕ å ɓéţţéŕ ûñļöçķîñĝ éхþéŕîéñçé one two three four five six seven eight]</string>
+    <string name="setup_fingerprint_enroll_immobile_help_title">(F)[ḾöVé ýöûŕ ƒîñĝéŕ one two three]</string>
+    <string name="suggested_fingerprint_lock_settings_title">(F)[Ûšé Fîñĝéŕþŕîñţ Ûñļöçķ one two three]</string>
+</resources>

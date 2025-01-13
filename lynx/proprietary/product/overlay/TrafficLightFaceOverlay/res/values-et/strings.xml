@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">Hoidke järgmisel kuval telefoni silmade kõrgusel.</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Näoga avamise seadistamine</string>
+    <string name="security_settings_face_enroll_finish_description">Nüüd saate oma telefoni kätte võtta ja selle oma näo abil avada</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Näoga avamise uuesti seadistamiseks kustutage oma praegune näomudel.
+
+Teie näomudel kustutatakse jäädavalt ja turvaliselt.
+
+Pärast kustutamist tuleb teil telefoni avamiseks kasutada PIN-koodi, mustrit või parooli."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Näoga avamise uuesti seadistamiseks kustutage oma praegune näomudel.
+
+Teie näomudel kustutatakse jäädavalt ja turvaliselt.
+
+Pärast kustutamist tuleb teil telefoni avamiseks kasutada sõrmejälge, PIN-koodi, mustrit või parooli."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Kui kannate tavaliselt prille, võite neid kanda ka seadistamise ajal.</string>
+    <string name="security_settings_face_enroll_introduction_message">Kasutage oma telefoni avamiseks oma nägu.</string>
+    <string name="security_settings_face_settings_footer">"Kasutage oma telefoni avamiseks oma nägu.
+
+Pidage meeles järgmist.
+Korraga saab olla seadistatud ainult üks nägu. Uue näo lisamiseks kustutage praegune nägu.
+
+Telefoni vaatamisel võib see soovimatult avaneda.
+
+Keegi teine võib teie telefoni avada, kui seda hoitakse teie näo ees.
+
+Võib juhtuda, et teiega sarnane inimene, näiteks identne vend/õde, saab teie telefoni avada."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Kasutage oma telefoni avamiseks oma nägu.
+
+Pidage meeles järgmist.
+Korraga saab olla seadistatud ainult üks nägu. Uue näo lisamiseks kustutage praegune nägu.
+
+Telefoni vaatamisel võib see soovimatult avaneda.
+
+Keegi teine võib teie telefoni avada, kui seda hoitakse teie näo ees, isegi kui teie silmad on suletud.
+
+Võib juhtuda, et teiega sarnane inimene, näiteks identne vend/õde, saab teie telefoni avada."</string>
+    <string name="security_settings_face_settings_require_attention_details">Telefoni avamiseks peavad teie silmad avatud olema. Parima tulemuse saavutamiseks võtke telefoni avamisel päikeseprillid ära.</string>
+</resources>

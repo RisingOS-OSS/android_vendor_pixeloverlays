@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google inalinda muunganisho huu kwa kutuma data kupitia seva zake</string>
+    <string name="branded_vpn_footer">Muunganisho unalindwa na Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Gusa taratibu kitambuzi cha alama ya kidole</string>
+    <string name="settingslib_learn_more_text">Pata maelezo zaidi kuhusu kipengele cha Kufungua kwa Alama ya Kidole</string>
+</resources>

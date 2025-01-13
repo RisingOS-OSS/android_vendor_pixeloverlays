@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Kutumia Ikiwa Imepachikwa</string>
+    <string name="dream_no_screen_saver_caption">Hakuna taswira ya skrini</string>
+    <string name="dream_no_screen_saver_description">Ili uokoe nishati, skrini yako itazima baada ya kutotumika</string>
+    <string name="dream_no_screen_saver_preview_caption">Isiyoathiri mazingira</string>
+    <string name="dream_secondary_button_title">Ruka</string>
+    <string name="screensaver_settings_summary_off">Onyesha kazi ya sanaa, saa, picha uzipendazo na zaidi wakati skrini haitumiki</string>
+</resources>

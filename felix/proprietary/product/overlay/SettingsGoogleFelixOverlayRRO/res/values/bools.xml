@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_auto_rotate_face_detection_available">false</bool>
+    <bool name="config_suw_support_face_enroll">false</bool>
+</resources>

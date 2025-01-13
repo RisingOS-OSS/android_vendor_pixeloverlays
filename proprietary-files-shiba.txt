@@ -23,8 +23,6 @@
 -product/overlay/Traceur__shiba__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
 -product/overlay/TrafficLightFaceOverlay.apk
 -product/overlay/UdfpsOverlay.apk
--product/overlay/WifiOverlay2023/PixelWifiOverlay2023.apk
 -product/overlay/WildlifeSettingsVpnOverlay2022.apk
 -product/overlay/WildlifeSysuiVpnOverlay2022.apk
 -vendor/overlay/SettingsGoogle__shiba__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleShibaOverlayVendorRRO.apk
-

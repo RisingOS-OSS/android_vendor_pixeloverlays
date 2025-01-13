@@ -16,6 +16,7 @@ bool:config_wlc_support_enabled
 bool:hac_enabled
 bool:vvm3_enabled
 bool:config_defaultRingtonePickerEnabled
+bool:config_wifiBridgedSoftApSupported
 color:icon_accent
 color:user_icon_1
 dimen:qs_brightness_margin_top
@@ -60,3 +61,4 @@ string:config_headlineFontFamily
 string:config_headlineFontFamilyMedium
 string:apn_source_service
 string:platform_carrier_config_package
+string:config_defaultCaptivePortalLoginPackageName

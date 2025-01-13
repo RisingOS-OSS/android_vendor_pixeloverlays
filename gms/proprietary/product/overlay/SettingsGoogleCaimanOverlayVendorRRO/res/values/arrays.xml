@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="display_over_apps_permission_change_exempt">
-        <item>com.google.android.apps.scone</item>
-    </string-array>
-</resources>

@@ -1,0 +1,29 @@
+# All blobs below are extracted from lynx AP3A.241105.007
+
+# Pixel Overlays
+-product/overlay/ClearCallingSettingsOverlay2022.apk
+-product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
+-product/overlay/DeviceDiagnostics__lynx__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
+-product/overlay/DMService__lynx__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
+-product/overlay/Flipendo__lynx__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
+-product/overlay/NfcOverlayLynx.apk
+-product/overlay/NfcOverlayCommon.apk
+-product/overlay/PixelBatteryHealthOverlay.apk
+-product/overlay/PixelConfigOverlay2021.apk
+-product/overlay/SafetyRegulatoryInfo__lynx__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
+-product/overlay/SettingsGoogle__lynx__auto_generated_rro_product.apk:product/overlay/SettingsGoogleLynxOverlayRRO.apk
+-product/overlay/SettingsGoogleLynxOverlay.apk
+-product/overlay/SettingsGoogleFutureLynxOverlay.apk
+-product/overlay/SettingsProvider__lynx__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
+-product/overlay/SimAppDialog__lynx__auto_generated_rro_product.apk:product/overlay/SimAppDialogOverlay.apk
+-product/overlay/StorageManagerGoogle__lynx__auto_generated_rro_product.apk:product/overlay/StorageManagerGoogleOverlay.apk
+-product/overlay/SystemUIGoogle__lynx__auto_generated_rro_product.apk:product/overlay/SystemUIGoogleOverlay.apk
+-product/overlay/Telecom__lynx__auto_generated_rro_product.apk:product/overlay/TelecomOverlay.apk
+-product/overlay/TelephonyProvider__lynx__auto_generated_rro_product.apk:product/overlay/TelephonyProviderOverlay.apk
+-product/overlay/TeleService__lynx__auto_generated_rro_product.apk:product/overlay/TeleServiceOverlay.apk
+-product/overlay/Traceur__lynx__auto_generated_rro_product.apk:product/overlay/TraceurOverlay.apk
+-product/overlay/TrafficLightFaceOverlay.apk
+-product/overlay/UdfpsOverlay.apk
+-product/overlay/WildlifeSettingsVpnOverlay2022.apk
+-product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__lynx__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleLynxOverlayVendorRRO.apk

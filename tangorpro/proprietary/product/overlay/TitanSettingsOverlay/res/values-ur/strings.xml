@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">ہب موڈ</string>
+    <string name="dream_no_screen_saver_caption">کوئی اسکرین سیور نہیں ہے</string>
+    <string name="dream_no_screen_saver_description">توانائی کی بچت کے لیے آپ کی اسکرین عدم فعالیت کے بعد آف ہو جائے گی</string>
+    <string name="dream_no_screen_saver_preview_caption">ایکو فرینڈلی</string>
+    <string name="dream_secondary_button_title">نظر انداز کریں</string>
+    <string name="screensaver_settings_summary_off">معطل ہونے پر پسندیدہ تصاویر، آرٹ ورک، گھڑیاں اور بہت کچھ دکھائیں</string>
+</resources>

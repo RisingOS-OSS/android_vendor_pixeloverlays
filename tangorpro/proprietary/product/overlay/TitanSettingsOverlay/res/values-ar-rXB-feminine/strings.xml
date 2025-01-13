@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">(F)‏‮Hub‬‏ ‏‮Mode‬‏</string>
+    <string name="dream_no_screen_saver_caption">(F)‏‮No‬‏ ‏‮screen‬‏ ‏‮saver‬‏</string>
+    <string name="dream_no_screen_saver_description">(F)‏‮To‬‏ ‏‮save‬‏ ‏‮energy,‬‏ ‏‮your‬‏ ‏‮screen‬‏ ‏‮will‬‏ ‏‮turn‬‏ ‏‮off‬‏ ‏‮after‬‏ ‏‮inactivity‬‏</string>
+    <string name="dream_no_screen_saver_preview_caption">(F)‏‮Eco-friendly‬‏</string>
+    <string name="dream_secondary_button_title">(F)‏‮Skip‬‏</string>
+    <string name="screensaver_settings_summary_off">(F)‏‮Show‬‏ ‏‮favorite‬‏ ‏‮photos,‬‏ ‏‮artwork,‬‏ ‏‮clocks,‬‏ ‏‮and‬‏ ‏‮more‬‏ ‏‮when‬‏ ‏‮idle‬‏</string>
+</resources>

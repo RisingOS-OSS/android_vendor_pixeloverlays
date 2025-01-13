@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">[Çĥåŕĝîñĝ šöûñðš one two three]</string>
+    <string name="config_limited_warranty_overlay_package_name">[çöḿ.åñðŕöîð.šéţţîñĝš.öVéŕļåý.ţåñĝöŕþŕö one two three four five]</string>
+    <string name="edge_to_edge_navigation_summary">[Ţö ĝö ĥöḿé, Qûîçķ-šŵîþé ûþ ƒŕöḿ ţĥé ɓöţţöḿ. Ţö åççéšš ţĥé Ţåšķɓåŕ, šļöŵ-šŵîþé ûþ ƒŕöḿ ţĥé ɓöţţöḿ. Ţö šŵîţçĥ åþþš, šŵîþé ûþ ƒŕöḿ ţĥé ɓöţţöḿ, ĥöļð, åñð ŕéļéåšé. Ţö ĝö ɓåçķ, šŵîþé ƒŕöḿ ţĥé ļéƒţ öŕ ŕîĝĥţ éðĝé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="fast_pair_device_not_found_other_device_description">[ḾöVé ţĥîš ðéVîçé çļöšéŕ ţö ýöûŕ Þîхéļ Ţåɓļéţ åñð ţŕý åĝåîñ. one two three four five six seven]</string>
+    <string name="fast_pair_device_not_found_tws_headphone_description">[Öþéñ ţĥé éåŕɓûðš çåšé åñð ḿöVé îţ çļöšéŕ ţö ýöûŕ Þîхéļ Ţåɓļéţ, ţĥéñ ţŕý åĝåîñ. one two three four five six seven eight nine]</string>
+    <string name="sound_dashboard_summary">[νöļûḿé one two]</string>
+    <string name="sound_dashboard_summary_with_dnd">[νöļûḿé, Ðö Ñöţ Ðîšţûŕɓ one two three]</string>
+    <string name="sound_settings">[Šöûñð one]</string>
+</resources>

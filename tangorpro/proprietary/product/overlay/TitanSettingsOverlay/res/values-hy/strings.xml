@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Հանգույցի ռեժիմ</string>
+    <string name="dream_no_screen_saver_caption">Էկրանապահ չկա</string>
+    <string name="dream_no_screen_saver_description">Էներգիա խնայելու համար էկրանը կանջատվի անգործուն լինելուց հետո</string>
+    <string name="dream_no_screen_saver_preview_caption">Էկոլոգիապես մաքուր</string>
+    <string name="dream_secondary_button_title">Բաց թողնել</string>
+    <string name="screensaver_settings_summary_off">Անգործուն ռեժիմում ցույց տալ նախընտրած լուսանկարները, պաստառները, ժամացույցները և այլն</string>
+</resources>

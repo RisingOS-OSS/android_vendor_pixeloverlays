@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub rejimi</string>
+    <string name="dream_no_screen_saver_caption">Ekran lavhasi belgilanmagan</string>
+    <string name="dream_no_screen_saver_description">Quvvatni tejash uchun faolsizlikdan keyin ekran oʻchiriladi</string>
+    <string name="dream_no_screen_saver_preview_caption">Tejamkor</string>
+    <string name="dream_secondary_button_title">Tashlab ketish</string>
+    <string name="screensaver_settings_summary_off">Kutish rejimida sevimli suratlar, sanʼat asarlari va soatlarni koʻrsatish</string>
+</resources>

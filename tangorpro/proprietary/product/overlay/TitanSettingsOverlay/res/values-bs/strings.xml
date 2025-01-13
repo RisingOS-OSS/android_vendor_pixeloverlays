@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Način rada središta</string>
+    <string name="dream_no_screen_saver_caption">Bez čuvara ekrana</string>
+    <string name="dream_no_screen_saver_description">Radi uštede energije ekran će se isključiti nakon neaktivnosti</string>
+    <string name="dream_no_screen_saver_preview_caption">Ekološki prihvatljivo</string>
+    <string name="dream_secondary_button_title">Preskoči</string>
+    <string name="screensaver_settings_summary_off">Prikaz omiljenih fotografija, ilustracija, satova i drugog tokom neaktivnosti</string>
+</resources>

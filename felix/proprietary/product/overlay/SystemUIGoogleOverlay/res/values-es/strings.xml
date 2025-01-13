@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google envía los datos de esta conexión a través de sus servidores para protegerla</string>
+    <string name="branded_vpn_footer">Conexión protegida por Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Toca ligeramente el sensor de huellas digitales</string>
+    <string name="settingslib_learn_more_text">Más información sobre Desbloqueo con huella digital</string>
+</resources>

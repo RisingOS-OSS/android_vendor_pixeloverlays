@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub mód</string>
+    <string name="dream_no_screen_saver_caption">Nincs képernyőkímélő</string>
+    <string name="dream_no_screen_saver_description">Energiamegtakarítási célból a kijelző kikapcsol inaktivitás esetén</string>
+    <string name="dream_no_screen_saver_preview_caption">Környezetbarát</string>
+    <string name="dream_secondary_button_title">Kihagyás</string>
+    <string name="screensaver_settings_summary_off">Kedvenc fotók, műalkotások, órák és egyebek megjelenítése tétlen állapotban</string>
+</resources>

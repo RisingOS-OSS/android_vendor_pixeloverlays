@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google štiti ovu vezu šaljući podatke putem svojih poslužitelja</string>
+    <string name="branded_vpn_footer">Vezu štiti Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Lagano dodirnite senzor otiska prsta</string>
+    <string name="settingslib_learn_more_text">Saznajte više o otključavanju otiskom prsta</string>
+</resources>

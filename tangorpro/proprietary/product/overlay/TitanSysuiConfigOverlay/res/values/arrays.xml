@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_communalWidgetAllowlist">
+        <item>com.google.android.deskclock/com.android.alarmclock.DigitalAppWidgetProvider</item>
+        <item>com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.verticals.snapshot.widgets.weather.WeatherWidget_Receiver</item>
+        <item>com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.appwidget.favorites.FavoritesWidgetReceiver</item>
+        <item>com.google.android.deskclock/com.android.deskclock.appwidgets.timerstarter.TimerStarterAppWidgetProvider</item>
+        <item>com.google.android.googlequicksearchbox/com.google.android.apps.search.widgets.stocks.StocksWidgetReceiver</item>
+    </string-array>
+    <string-array name="config_dock_setup_completed_packages">
+        <item>com.google.android.apps.chromecast.app</item>
+    </string-array>
+    <integer-array name="config_doze_brightness_sensor_to_brightness">
+        <item>-1</item>
+        <item>11</item>
+        <item>7</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="config_doze_brightness_sensor_to_scrim_opacity">
+        <item>-1</item>
+        <item>157</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="config_fingerprint_listen_on_occluding_activity_packages">
+        <item>com.google.android.apps.mediashell</item>
+    </string-array>
+</resources>

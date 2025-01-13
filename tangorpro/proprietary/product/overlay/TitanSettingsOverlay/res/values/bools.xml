@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_communal_settings">true</bool>
+    <bool name="config_show_glanceable_hub_toggle_setting">true</bool>
+    <bool name="dream_setup_supported">true</bool>
+    <bool name="has_dock_settings">true</bool>
+</resources>

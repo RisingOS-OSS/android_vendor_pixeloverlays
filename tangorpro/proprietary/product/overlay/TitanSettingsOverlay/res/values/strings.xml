@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub Mode</string>
+    <string name="dream_no_screen_saver_caption">No screen saver</string>
+    <string name="dream_no_screen_saver_description">To save energy, your screen will turn off after inactivity</string>
+    <string name="dream_no_screen_saver_preview_caption">Eco-friendly</string>
+    <string name="dream_secondary_button_title">Skip</string>
+    <string name="screensaver_settings_summary_off">Show favorite photos, artwork, clocks, and more when idle</string>
+</resources>

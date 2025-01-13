@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Režim centra</string>
+    <string name="dream_no_screen_saver_caption">Žádný spořič</string>
+    <string name="dream_no_screen_saver_description">Aby se šetřila energie, obrazovka se po nečinnosti vypne</string>
+    <string name="dream_no_screen_saver_preview_caption">Ekologické</string>
+    <string name="dream_secondary_button_title">Přeskočit</string>
+    <string name="screensaver_settings_summary_off">Při nečinnosti zobrazovat oblíbené fotografie, umělecká díla, hodiny a další</string>
+</resources>

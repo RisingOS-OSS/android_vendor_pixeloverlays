@@ -1,31 +1,23 @@
 PRODUCT_PACKAGES += \
+    AccessibilityMenu \
     AvatarPickerPixelOverlay \
-    CompanionDeviceManagerOverlay \
-    DMServiceOverlay \
-    DeviceDiagnosticsOverlay \
-    FlipendoOverlay \
-    NfcOverlayCommon \
+    PixelPrintServiceOverlay \
+    PixelContactsProviderOverlay \
+    GoogleConfigOverlay \
+    GoogleWebViewOverlay \
+    ManagedProvisioningPixelOverlay \
     PearlOverlay2024 \
     PixelBatteryHealthOverlay \
+    PixelConfigOverlay2018 \
+    PixelConfigOverlay2019 \
+    PixelConfigOverlay2019Midyear \
     PixelConfigOverlay2021 \
-    PixelDisplayService__caiman__auto_generated_rro_product \
-    PixelSetupWizardOverlay2024 \
-    PixelSupportPrebuiltOverlay \
-    SafetyRegulatoryInfoOverlay \
-    SettingsGoogleCaimanOverlay \
-    SettingsGoogleCaimanOverlayRRO \
-    SettingsProviderOverlay \
-    SimAppDialogOverlay \
-    StorageManagerGoogleOverlay \
-    SystemUIGoogleOverlay \
-    TeleServiceOverlay \
-    TelecomOverlay \
-    TelephonyProviderOverlay \
-    TraceurOverlay \
-    TrafficLightFaceOverlay \
-    UdfpsOverlay \
-    UltrasonicOverlay \
-    PixelWifiOverlay2024 \
+    PixelConfigOverlayCommon \
+    PixelSettingsGoogleOverlay \
+    PixelSettingsProviderOverlay \
+    PixelStorageManagerGoogleOverlay \
+    SystemUIGXOverlay \
+    PixelSystemUIGoogleOverlay \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022 \
-    SettingsGoogleCaimanOverlayVendorRRO \
+    PixelFrameworkOverlay \

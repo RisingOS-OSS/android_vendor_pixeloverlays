@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google එහි සේවාදායක හරහා දත්ත යැවීමෙන් මෙම සම්බන්ධතාව සුරක්ෂිත කරයි</string>
+    <string name="branded_vpn_footer">සම්බන්ධතාව Google මගින් සුරක්ෂිත කර ඇත</string>
+    <string name="fingerprint_dialog_touch_sensor">ඇඟිලි සලකුණු සංවේදකය සැහැල්ලුවෙන් ස්පර්ශ කරන්න</string>
+    <string name="settingslib_learn_more_text">ඇඟිලි සලකුණු අගුළු හැරීම පිළිබඳව තව දැන ගන්න</string>
+</resources>

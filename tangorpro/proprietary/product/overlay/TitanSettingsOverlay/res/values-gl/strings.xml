@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Modo Hub</string>
+    <string name="dream_no_screen_saver_caption">Ningún protector seleccionado</string>
+    <string name="dream_no_screen_saver_description">Para aforrar enerxía, a pantalla apagarase tras un período de inactividade</string>
+    <string name="dream_no_screen_saver_preview_caption">Respectuoso co medio ambiente</string>
+    <string name="dream_secondary_button_title">Omitir</string>
+    <string name="screensaver_settings_summary_off">Mostra o teu contido favorito (fotos, obras de arte, reloxos…) cando o dispositivo está inactivo</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google абараняе гэта злучэнне, адпраўляючы даныя праз свае серверы</string>
+    <string name="branded_vpn_footer">Злучэнне абаронена Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Злёгку дакраніцеся да сканера адбіткаў пальцаў</string>
+    <string name="settingslib_learn_more_text">Даведацца больш пра разблакіроўку адбіткам пальца</string>
+</resources>

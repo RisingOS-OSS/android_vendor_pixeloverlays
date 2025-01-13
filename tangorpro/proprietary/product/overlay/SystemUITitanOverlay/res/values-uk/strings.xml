@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google захищає це підключення, надсилаючи дані через свої сервери</string>
+    <string name="branded_vpn_footer">Підключення захищено Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Злегка торкніться сканера відбитків пальців</string>
+    <string name="settingslib_learn_more_text">Докладніше про розблокування відбитком пальця</string>
+</resources>

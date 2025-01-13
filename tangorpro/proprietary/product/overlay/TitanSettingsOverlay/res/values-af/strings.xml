@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Sentrummodus</string>
+    <string name="dream_no_screen_saver_caption">Geen sluimerskerm nie</string>
+    <string name="dream_no_screen_saver_description">Jou skerm sal ná onaktiwiteit afskakel om energie te bespaar</string>
+    <string name="dream_no_screen_saver_preview_caption">Ekovriendelik</string>
+    <string name="dream_secondary_button_title">Slaan oor</string>
+    <string name="screensaver_settings_summary_off">Wys gunstelingfoto’s, -kunswerke, -horlosies en meer wanneer dit onaktief is</string>
+</resources>

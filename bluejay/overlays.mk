@@ -18,5 +18,4 @@ PRODUCT_PACKAGES += \
     TelephonyProviderOverlay \
     TraceurOverlay \
     UdfpsOverlay \
-    PixelWifiOverlay2022_midyear \
     SettingsGoogleBluejayOverlayVendorRRO \

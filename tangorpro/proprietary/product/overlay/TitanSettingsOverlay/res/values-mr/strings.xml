@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">हब मोड</string>
+    <string name="dream_no_screen_saver_caption">कोणताही स्क्रीनसेव्हर नाही</string>
+    <string name="dream_no_screen_saver_description">ऊर्जेची बचत करण्यासाठी इनॅक्टिव्हिटीनंतर तुमचा स्क्रीन बंद होईल</string>
+    <string name="dream_no_screen_saver_preview_caption">पर्यावरणस्नेही</string>
+    <string name="dream_secondary_button_title">वगळा</string>
+    <string name="screensaver_settings_summary_off">आयडल असताना आवडते फोटो, आर्टवर्क, घड्याळे आणि आणखी बऱ्याच गोष्टी दाखवा</string>
+</resources>

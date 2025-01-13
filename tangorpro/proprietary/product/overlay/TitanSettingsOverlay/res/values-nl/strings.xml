@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub-modus</string>
+    <string name="dream_no_screen_saver_caption">Geen screensaver</string>
+    <string name="dream_no_screen_saver_description">Je scherm gaat uit na inactiviteit om energie te besparen</string>
+    <string name="dream_no_screen_saver_preview_caption">Milieuvriendelijk</string>
+    <string name="dream_secondary_button_title">Overslaan</string>
+    <string name="screensaver_settings_summary_off">"Toon onder andere je favoriete foto's, kunst en klokken bij inactiviteit"</string>
+</resources>

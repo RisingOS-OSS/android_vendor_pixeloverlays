@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub горим</string>
+    <string name="dream_no_screen_saver_caption">Дэлгэц амраагч алга</string>
+    <string name="dream_no_screen_saver_description">Эрчим хүч хэмнэхийн тулд идэвхгүй байсны дараа таны дэлгэцийг унтраана</string>
+    <string name="dream_no_screen_saver_preview_caption">Байгальд ээлтэй</string>
+    <string name="dream_secondary_button_title">Алгасах</string>
+    <string name="screensaver_settings_summary_off">Идэвхгүй үед дуртай зураг, постер, цаг болон бусад зүйлийг харуулна</string>
+</resources>

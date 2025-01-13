@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_assistTouchGestureEnabledDefault">false</bool>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
+    <bool name="config_dreamsDisabledByAmbientModeSuppressionConfig">true</bool>
+    <bool name="config_dreamsEnabledByDefault">false</bool>
+    <bool name="config_dreamsOnlyEnabledForDockUser">true</bool>
+    <bool name="config_enableTimeoutToDockUserWhenDocked">true</bool>
+    <bool name="config_keepDreamingWhenUnplugging">true</bool>
+    <bool name="config_orderUnlockAndWake">true</bool>
+    <bool name="config_resetScreenTimeoutOnUnexpectedDreamExit">true</bool>
+    <bool name="config_skipActivityRelaunchWhenDocking">true</bool>
+    <bool name="config_startDreamImmediatelyOnDock">false</bool>
+</resources>

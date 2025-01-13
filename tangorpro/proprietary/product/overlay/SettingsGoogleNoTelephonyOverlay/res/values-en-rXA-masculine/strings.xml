@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_dashboard_summary_no_mobile">(M)[Ŵî‑Fî one two]</string>
+    <string name="non_carrier_data_usage">(M)[Ŵî‑Fî ðåţå ûšåĝé one two three]</string>
+    <string name="tether_settings_title_all">(M)[Ţéţĥéŕîñĝ one two]</string>
+    <string name="tethering_footer_info">(M)[Ûšé ţéţĥéŕîñĝ ţö þŕöVîðé îñţéŕñéţ ţö öţĥéŕ ðéVîçéš ţĥŕöûĝĥ ÛŠβ, Éţĥéŕñéţ, öŕ βļûéţööţĥ. one two three four five six seven eight nine]</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enrollment_message_display_controller_flag">true</bool>
+</resources>

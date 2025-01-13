@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Mode Hub</string>
+    <string name="dream_no_screen_saver_caption">Tanpa screensaver</string>
+    <string name="dream_no_screen_saver_description">Untuk menghemat energi, layar akan dinonaktifkan setelah tidak ada aktivitas</string>
+    <string name="dream_no_screen_saver_preview_caption">Ramah lingkungan</string>
+    <string name="dream_secondary_button_title">Lewati</string>
+    <string name="screensaver_settings_summary_off">Tampilkan foto favorit, karya seni, jam, dan lainnya saat tidak ada aktivitas</string>
+</resources>

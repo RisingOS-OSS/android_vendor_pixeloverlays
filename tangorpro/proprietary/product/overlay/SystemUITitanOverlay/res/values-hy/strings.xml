@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google-ը պաշտպանում է այս կապը՝ ուղարկելով տվյալներ իր սերվերների միջոցով</string>
+    <string name="branded_vpn_footer">Google-ի կողմից պաշտպանված կապ</string>
+    <string name="fingerprint_dialog_touch_sensor">Թեթևակի հպեք մատնահետքերի սկաներին</string>
+    <string name="settingslib_learn_more_text">Իմանալ ավելին մատնահետքով ապակողպման մասին</string>
+</resources>

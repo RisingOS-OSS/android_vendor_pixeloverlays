@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Googleএ নিজৰ ছার্ভাৰসমূহৰ জৰিয়তে ডেটা পঠিয়াই এই সংযোগটো সুৰক্ষিত কৰিছে</string>
+    <string name="branded_vpn_footer">সংযোগটো Googleৰ দ্বাৰা সুৰক্ষিত কৰা হৈছে</string>
+    <string name="fingerprint_dialog_touch_sensor">ফিংগাৰপ্ৰিণ্ট ছেন্সৰটো লাহেকৈ স্পৰ্শ কৰক</string>
+    <string name="settingslib_learn_more_text">ফিংগাৰপ্ৰিণ্ট আনলকৰ বিষয়ে অধিক জানক</string>
+</resources>

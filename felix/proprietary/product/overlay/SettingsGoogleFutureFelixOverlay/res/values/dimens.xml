@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="face_preview_frame_bottom_spacing">64.0dip</dimen>
+    <item type="dimen" name="face_preview_scale">0.75</item>
+</resources>

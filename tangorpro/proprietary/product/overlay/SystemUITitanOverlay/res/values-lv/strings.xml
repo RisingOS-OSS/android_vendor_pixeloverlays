@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google aizsargā šo savienojumu, sūtot datus caur saviem serveriem.</string>
+    <string name="branded_vpn_footer">Savienojumu aizsargā Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Viegli pieskarieties pirksta nospieduma sensoram.</string>
+    <string name="settingslib_learn_more_text">Plašāka informācija par autorizāciju ar pirksta nospiedumu</string>
+</resources>

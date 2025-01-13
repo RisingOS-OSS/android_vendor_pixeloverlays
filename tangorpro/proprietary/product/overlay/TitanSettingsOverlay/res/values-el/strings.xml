@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Λειτουργία Hub</string>
+    <string name="dream_no_screen_saver_caption">Δεν υπάρχει προφύλαξη οθόνης</string>
+    <string name="dream_no_screen_saver_description">Όταν η οθόνη σας είναι σε κατάσταση αδράνειας θα απενεργοποιείται για εξοικονόμηση ενέργειας</string>
+    <string name="dream_no_screen_saver_preview_caption">Φιλικό προς το περιβάλλον</string>
+    <string name="dream_secondary_button_title">Παράβλεψη</string>
+    <string name="screensaver_settings_summary_off">Όταν η συσκευή είναι αδρανής, να εμφανίζονται αγαπημένες φωτογραφίες, έργα τέχνης, ρολόγια κ.ά.</string>
+</resources>

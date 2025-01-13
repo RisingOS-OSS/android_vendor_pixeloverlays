@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">‏Google با ارسال داده‌ها به سرورهای خودش، این اتصال را امن می‌کند</string>
+    <string name="branded_vpn_footer">‏Google اتصال را امن کرده است</string>
+    <string name="fingerprint_dialog_touch_sensor">حسگر اثر انگشت را به‌آرامی لمس کنید</string>
+    <string name="settingslib_learn_more_text">درباره «قفل‌گشایی با اثر انگشت» بیشتر بدانید</string>
+</resources>

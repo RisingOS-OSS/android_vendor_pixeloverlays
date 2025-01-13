@@ -27,8 +27,6 @@
 -product/overlay/TrafficLightFaceOverlay.apk
 -product/overlay/UdfpsOverlay.apk
 -product/overlay/UltrasonicOverlay.apk
--product/overlay/WifiOverlay2024/PixelWifiOverlay2024.apk
 -product/overlay/WildlifeSettingsVpnOverlay2022.apk
 -product/overlay/WildlifeSysuiVpnOverlay2022.apk
 -vendor/overlay/SettingsGoogle__tokay__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleTokayOverlayVendorRRO.apk
-

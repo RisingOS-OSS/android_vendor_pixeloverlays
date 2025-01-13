@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Dokirežiim</string>
+    <string name="dream_no_screen_saver_caption">Ekraanisäästjat pole</string>
+    <string name="dream_no_screen_saver_description">Energia säästmiseks lülitub ekraan pärast tegevusetust välja</string>
+    <string name="dream_no_screen_saver_preview_caption">Keskkonna­sõbralik</string>
+    <string name="dream_secondary_button_title">Jäta vahele</string>
+    <string name="screensaver_settings_summary_off">Kuva tegevusetuna lemmikfotod, graafika, kellad ja muu</string>
+</resources>

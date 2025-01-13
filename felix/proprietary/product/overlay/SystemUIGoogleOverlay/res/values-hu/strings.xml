@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">A Google úgy gondoskodik a kapcsolat biztonságáról, hogy adatokat küld a szerverein keresztül</string>
+    <string name="branded_vpn_footer">Google által biztosított kapcsolat</string>
+    <string name="fingerprint_dialog_touch_sensor">Finoman érintse meg az ujjlenyomat-érzékelőt</string>
+    <string name="settingslib_learn_more_text">További információ a Feloldás ujjlenyomattal funkcióról</string>
+</resources>

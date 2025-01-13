@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google tryggir öryggi þessarar tengingar með því að senda gögn um þjóna hennar</string>
+    <string name="branded_vpn_footer">Google hefur staðfest öryggi tengingarinnar</string>
+    <string name="fingerprint_dialog_touch_sensor">Snertu fingrafaralesarann laust</string>
+    <string name="settingslib_learn_more_text">Nánar um fingrafarskenni</string>
+</resources>

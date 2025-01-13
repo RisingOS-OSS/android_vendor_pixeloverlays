@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google, దానికి చెందిన సర్వర్‌లలో డేటాను పంపడం ద్వారా ఈ కనెక్షన్‌ను సురక్షితం చేస్తోంది</string>
+    <string name="branded_vpn_footer">Google ద్వారా కనెక్షన్ సురక్షితం చేయబడింది</string>
+    <string name="fingerprint_dialog_touch_sensor">వేలిముద్ర సెన్సార్‌ను సున్నితంగా తాకండి</string>
+    <string name="settingslib_learn_more_text">వేలిముద్ర అన్‌లాక్ ఫీచర్ గురించి మరింత తెలుసుకోండి</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">وضع الإرساء</string>
+    <string name="dream_no_screen_saver_caption">بدون شاشة توقف</string>
+    <string name="dream_no_screen_saver_description">لتوفير الطاقة، سيتم إغلاق الشاشة بعد فترة عدم النشاط.</string>
+    <string name="dream_no_screen_saver_preview_caption">صديق للبيئة</string>
+    <string name="dream_secondary_button_title">التخطي</string>
+    <string name="screensaver_settings_summary_off">إظهار تصميمات الغرافيك والساعات والصور المفضّلة والمزيد عند عدم استخدام الجهاز من قِبل أي تطبيق</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Režim centra</string>
+    <string name="dream_no_screen_saver_caption">Nema čuvara ekrana</string>
+    <string name="dream_no_screen_saver_description">Da biste uštedeli energiju, ekran će se isključiti posle neaktivnosti</string>
+    <string name="dream_no_screen_saver_preview_caption">Ekološki</string>
+    <string name="dream_secondary_button_title">Preskoči</string>
+    <string name="screensaver_settings_summary_off">Prikazuje omiljene slike, ilustracije, satove i drugo u neaktivnom stanju</string>
+</resources>

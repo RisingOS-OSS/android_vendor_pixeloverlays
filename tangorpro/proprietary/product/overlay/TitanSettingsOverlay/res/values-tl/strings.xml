@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub Mode</string>
+    <string name="dream_no_screen_saver_caption">Walang screen saver</string>
+    <string name="dream_no_screen_saver_description">Para makatipid ng kuryente, mag-o-off ang screen mo kapag walang aktibidad</string>
+    <string name="dream_no_screen_saver_preview_caption">Eco-friendly</string>
+    <string name="dream_secondary_button_title">Laktawan</string>
+    <string name="screensaver_settings_summary_off">Ipakita ang mga paboritong larawan, artwork, relo, at higit pa kapag idle</string>
+</resources>

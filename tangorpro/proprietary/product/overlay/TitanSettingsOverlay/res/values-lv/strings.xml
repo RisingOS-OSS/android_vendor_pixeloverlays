@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Centra režīms</string>
+    <string name="dream_no_screen_saver_caption">Nav ekrānsaudzētāja</string>
+    <string name="dream_no_screen_saver_description">Lai taupītu enerģiju, ekrāns izslēgsies, ja netiks veiktas darbības.</string>
+    <string name="dream_no_screen_saver_preview_caption">Videi draudzīgais režīms</string>
+    <string name="dream_secondary_button_title">Izlaist</string>
+    <string name="screensaver_settings_summary_off">Dīkstāves laikā rādīt izlases fotoattēlus, mākslas darbus, pulksteņus un citu saturu</string>
+</resources>

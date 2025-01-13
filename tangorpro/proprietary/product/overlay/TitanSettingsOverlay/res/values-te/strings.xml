@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">హబ్ మోడ్</string>
+    <string name="dream_no_screen_saver_caption">స్క్రీన్ సేవర్ లేదు</string>
+    <string name="dream_no_screen_saver_description">ఎనర్జీని సేవ్ చేయడానికి, ఇన్‌యాక్టివిటీ తర్వాత మీ స్క్రీన్ ఆఫ్ అవుతుంది</string>
+    <string name="dream_no_screen_saver_preview_caption">ఎకో-ఫ్రెండ్లీ</string>
+    <string name="dream_secondary_button_title">స్కిప్ చేయండి</string>
+    <string name="screensaver_settings_summary_off">ఇన్‌యాక్టివ్‌గా ఉన్నప్పుడు ఫేవ‌రెట్ ఫోటోలను, పోస్టర్ ఇమేజ్‌ను, గడియారాలను, ఇలా మరిన్నింటిని చూపండి</string>
+</resources>

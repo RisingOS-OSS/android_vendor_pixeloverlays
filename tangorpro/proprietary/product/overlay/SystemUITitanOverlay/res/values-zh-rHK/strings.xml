@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google 正在透過其伺服器傳送數據來保護此連線</string>
+    <string name="branded_vpn_footer">連線已受 Google 保護</string>
+    <string name="fingerprint_dialog_touch_sensor">輕觸指紋感應器</string>
+    <string name="settingslib_learn_more_text">進一步瞭解「指紋解鎖」</string>
+</resources>

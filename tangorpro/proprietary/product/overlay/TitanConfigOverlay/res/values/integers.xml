@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_defaultNightMode">1</integer>
+    <integer name="config_dreamsBatteryLevelDrainCutoff">2</integer>
+    <integer name="config_multiuserMaximumUsers">8</integer>
+    <integer name="config_navBarInteractionMode">2</integer>
+    <integer name="config_shortPressOnPowerBehavior">7</integer>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google sécurise cette connexion en envoyant les données via ses serveurs</string>
+    <string name="branded_vpn_footer">Connexion sécurisée par Google</string>
+    <string name="fingerprint_dialog_touch_sensor">"Appuyez légèrement sur le lecteur d'empreinte digitale"</string>
+    <string name="settingslib_learn_more_text">En savoir plus sur le déverrouillage par empreinte digitale</string>
+</resources>

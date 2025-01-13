@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub Mode</string>
+    <string name="dream_no_screen_saver_caption">स्क्रीन सेवर नहीं चुना गया है</string>
+    <string name="dream_no_screen_saver_description">बैटरी बचाने के लिए, इस्तेमाल नहीं होने पर आपकी स्क्रीन बंद हो जाएगी</string>
+    <string name="dream_no_screen_saver_preview_caption">ईको-फ़्रेंडली</string>
+    <string name="dream_secondary_button_title">अभी नहीं</string>
+    <string name="screensaver_settings_summary_off">डिवाइस का कुछ समय तक इस्तेमाल न किए जाने पर, पसंदीदा फ़ोटो, आर्टवर्क, घड़ियां वगैरह दिखाएं</string>
+</resources>

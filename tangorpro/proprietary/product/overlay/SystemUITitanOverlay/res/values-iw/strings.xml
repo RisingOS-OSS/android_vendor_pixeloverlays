@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">‏Google מאבטחת את החיבור הזה באמצעות שליחת נתונים דרך השרתים שלה</string>
+    <string name="branded_vpn_footer">‏החיבור מאובטח על ידי Google</string>
+    <string name="fingerprint_dialog_touch_sensor">צריך לגעת קלות בחיישן טביעות האצבע</string>
+    <string name="settingslib_learn_more_text">מידע נוסף על ביטול הנעילה בטביעת אצבע</string>
+</resources>

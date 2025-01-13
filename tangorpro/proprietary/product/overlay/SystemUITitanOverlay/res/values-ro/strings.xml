@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google securizează conexiunea trimițând date prin serverele proprii</string>
+    <string name="branded_vpn_footer">Conexiune securizată de Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Atinge ușor senzorul de amprentă</string>
+    <string name="settingslib_learn_more_text">Află mai multe despre Deblocarea cu amprenta</string>
+</resources>

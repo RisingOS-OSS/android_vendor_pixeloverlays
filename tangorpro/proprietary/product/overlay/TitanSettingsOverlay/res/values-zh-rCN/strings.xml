@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">基座接入模式</string>
+    <string name="dream_no_screen_saver_caption">未选择屏保</string>
+    <string name="dream_no_screen_saver_description">为了节约能源，您的显示屏将在闲置后关闭</string>
+    <string name="dream_no_screen_saver_preview_caption">环保</string>
+    <string name="dream_secondary_button_title">跳过</string>
+    <string name="screensaver_settings_summary_off">闲置时显示收藏的照片、艺术作品、时钟等</string>
+</resources>

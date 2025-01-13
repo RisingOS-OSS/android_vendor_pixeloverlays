@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Режим центру керування</string>
+    <string name="dream_no_screen_saver_caption">Немає заставки</string>
+    <string name="dream_no_screen_saver_description">Щоб заощаджувати енергію, екран вимикатиметься після періоду бездіяльності</string>
+    <string name="dream_no_screen_saver_preview_caption">Екологічна</string>
+    <string name="dream_secondary_button_title">Пропустити</string>
+    <string name="screensaver_settings_summary_off">Відображайте улюблені фото, твори мистецтва, годинники тощо, коли пристрій неактивний</string>
+</resources>

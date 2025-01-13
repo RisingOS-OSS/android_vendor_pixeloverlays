@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google កំពុង​រក្សាសុវត្ថិភាព​ការតភ្ជាប់នេះ ដោយផ្ញើ​ទិន្នន័យ​តាមរយៈ​ម៉ាស៊ីនមេ​របស់ខ្លួន</string>
+    <string name="branded_vpn_footer">ការតភ្ជាប់​ដែលរក្សា​សុវត្ថិភាព​ដោយ Google</string>
+    <string name="fingerprint_dialog_touch_sensor">ចុចថ្នមៗលើសេនស័រចាប់ស្នាមម្រាមដៃ</string>
+    <string name="settingslib_learn_more_text">ស្វែងយល់បន្ថែមអំពីការដោះសោ​ដោយប្រើ​ស្នាមម្រាមដៃ</string>
+</resources>

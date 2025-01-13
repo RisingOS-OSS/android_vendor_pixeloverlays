@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Mode Console</string>
+    <string name="dream_no_screen_saver_caption">Aucun écran de veille</string>
+    <string name="dream_no_screen_saver_description">"Pour économiser de l'énergie, votre écran s'éteint après une période d'inactivité"</string>
+    <string name="dream_no_screen_saver_preview_caption">Écologique</string>
+    <string name="dream_secondary_button_title">Ignorer</string>
+    <string name="screensaver_settings_summary_off">"Affichez vos photos, vos illustrations, vos horloges et bien plus lorsque l'appareil est inactif"</string>
+</resources>

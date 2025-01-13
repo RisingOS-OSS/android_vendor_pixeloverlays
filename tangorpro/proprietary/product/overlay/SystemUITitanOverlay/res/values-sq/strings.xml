@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google po e siguron këtë lidhje duke i dërguar të dhënat nëpërmjet serverëve të tij</string>
+    <string name="branded_vpn_footer">Lidhja është siguruar nga Google</string>
+    <string name="fingerprint_dialog_touch_sensor">Prek lehtësisht sensorin e gjurmës së gishtit</string>
+    <string name="settingslib_learn_more_text">Mëso më shumë për \"Shkyçjen me gjurmën e gishtit\"</string>
+</resources>

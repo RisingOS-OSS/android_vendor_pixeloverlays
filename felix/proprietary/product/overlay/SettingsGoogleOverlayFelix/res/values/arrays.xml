@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_settableAutoRotationDeviceStatesDescriptions">
+        <item>@string/setting_auto_rotate_folded</item>
+        <item>@null</item>
+        <item>@string/setting_auto_rotate_unfolded</item>
+        <item>@null</item>
+    </string-array>
+</resources>

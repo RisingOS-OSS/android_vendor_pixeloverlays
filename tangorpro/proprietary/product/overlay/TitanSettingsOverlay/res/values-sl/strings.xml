@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Način središča</string>
+    <string name="dream_no_screen_saver_caption">Brez ohranjevalnika zaslona</string>
+    <string name="dream_no_screen_saver_description">Zaradi varčevanja z energijo se bo zaslon samodejno izklopil po nedejavnosti.</string>
+    <string name="dream_no_screen_saver_preview_caption">Okolju prijazno</string>
+    <string name="dream_secondary_button_title">Preskoči</string>
+    <string name="screensaver_settings_summary_off">Prikaz priljubljenih fotografij, slikovnega materiala, ur in drugega v stanju nedejavnosti</string>
+</resources>

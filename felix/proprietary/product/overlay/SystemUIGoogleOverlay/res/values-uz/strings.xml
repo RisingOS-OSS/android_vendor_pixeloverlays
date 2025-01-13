@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Maʼlumotlar serverlarga Google himoyasi ostidagi ulanish orqali yuboriladi</string>
+    <string name="branded_vpn_footer">Ulanish Google himoyasi ostida</string>
+    <string name="fingerprint_dialog_touch_sensor">Barmoq izi skaneriga ohista tegining</string>
+    <string name="settingslib_learn_more_text">Barmoq izi bilan ochish haqida batafsil</string>
+</resources>

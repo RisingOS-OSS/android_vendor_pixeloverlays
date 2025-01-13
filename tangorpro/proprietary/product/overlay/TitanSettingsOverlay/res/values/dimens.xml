@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dream_item_min_column_width">210.0dip</dimen>
+    <dimen name="dream_preference_card_padding">20.0dip</dimen>
+</resources>

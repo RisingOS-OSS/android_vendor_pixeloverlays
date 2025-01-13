@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Konexio hau babesten ari da Google, datuak bere zerbitzaritik bidalita</string>
+    <string name="branded_vpn_footer">Google-k babestu du konexioa</string>
+    <string name="fingerprint_dialog_touch_sensor">Sakatu hatz-marken sentsorea leunki</string>
+    <string name="settingslib_learn_more_text">Lortu hatz-marka bidez desblokeatzeko eginbideari buruzko informazio gehiago</string>
+</resources>

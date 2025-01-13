@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Način Huba</string>
+    <string name="dream_no_screen_saver_caption">Nema čuvara zaslona</string>
+    <string name="dream_no_screen_saver_description">Vaš će se zaslon isključiti nakon neaktivnosti radi uštede energije</string>
+    <string name="dream_no_screen_saver_preview_caption">Ekološki prihvatljivo</string>
+    <string name="dream_secondary_button_title">Preskoči</string>
+    <string name="screensaver_settings_summary_off">Prikaži omiljene fotografije, umjetnička djela, satove i više u mirovanju</string>
+</resources>

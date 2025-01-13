@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_face_enroll_supported_posture">1</integer>
+</resources>

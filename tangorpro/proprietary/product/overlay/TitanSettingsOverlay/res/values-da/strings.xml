@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hub-tilstand</string>
+    <string name="dream_no_screen_saver_caption">Ingen pauseskærm</string>
+    <string name="dream_no_screen_saver_description">Skærmen slukker efter inaktivitet for at spare på energien</string>
+    <string name="dream_no_screen_saver_preview_caption">Miljøvenlig</string>
+    <string name="dream_secondary_button_title">Spring over</string>
+    <string name="screensaver_settings_summary_off">Vis foretrukne billeder, kunstværker, ure og meget mere, når skærmen er inaktiv</string>
+</resources>

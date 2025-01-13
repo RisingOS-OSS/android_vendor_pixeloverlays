@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Tryb centrali</string>
+    <string name="dream_no_screen_saver_caption">Brak wygaszacza ekranu</string>
+    <string name="dream_no_screen_saver_description">Twój ekran automatycznie wygaśnie, jeśli będzie nieaktywny, aby oszczędzać energię</string>
+    <string name="dream_no_screen_saver_preview_caption">Przyjazny środowisku</string>
+    <string name="dream_secondary_button_title">Pomiń</string>
+    <string name="screensaver_settings_summary_off">Pokazuj ulubione zdjęcia, dzieła sztuki, zegary i inne elementy, kiedy urządzenie jest nieaktywne</string>
+</resources>

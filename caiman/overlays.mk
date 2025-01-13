@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     TrafficLightFaceOverlay \
     UdfpsOverlay \
     UltrasonicOverlay \
-    PixelWifiOverlay2024 \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022 \
     SettingsGoogleCaimanOverlayVendorRRO \

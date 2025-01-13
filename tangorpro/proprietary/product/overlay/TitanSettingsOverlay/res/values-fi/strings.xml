@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="communal_settings_title">Hubitila</string>
+    <string name="dream_no_screen_saver_caption">Ei näytönsäästäjää</string>
+    <string name="dream_no_screen_saver_description">Käyttämätön näyttö sammuu energian säästämiseksi</string>
+    <string name="dream_no_screen_saver_preview_caption">Ekologinen</string>
+    <string name="dream_secondary_button_title">Ohita</string>
+    <string name="screensaver_settings_summary_off">Näytä esimerkiksi suosikkikuvia, taideteoksia tai kelloja, kun laite on epäaktiivinen</string>
+</resources>

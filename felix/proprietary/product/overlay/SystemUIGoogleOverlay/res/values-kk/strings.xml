@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google өз серверлері арқылы деректер жіберу арқылы осы байланысты қорғайды.</string>
+    <string name="branded_vpn_footer">Байланыс Google арқылы қорғалған</string>
+    <string name="fingerprint_dialog_touch_sensor">Саусақ ізін оқу сканерін жайлап түртіңіз.</string>
+    <string name="settingslib_learn_more_text">Саусақ ізімен ашу туралы толық ақпарат</string>
+</resources>

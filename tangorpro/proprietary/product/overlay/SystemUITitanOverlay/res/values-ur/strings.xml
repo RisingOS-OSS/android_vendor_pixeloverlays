@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">‏Google اپنے سرورز کے ذریعے ڈیٹا بھیج کر یہ کنکشن محفوظ کر رہا ہے</string>
+    <string name="branded_vpn_footer">‏کنکشن Google کی جانب سے محفوظ کردہ</string>
+    <string name="fingerprint_dialog_touch_sensor">فنگر پرنٹ سینسر کو ہلکے سے ٹچ کریں</string>
+    <string name="settingslib_learn_more_text">فنگر پرنٹ اَن لاک کے بارے میں مزید جانیں</string>
+</resources>

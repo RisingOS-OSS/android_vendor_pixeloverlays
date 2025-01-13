@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">در صفحه بعدی، تلفن را هم‌سطح چشمانتان نگه دارید</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">نحوه راه‌اندازی «قفل‌گشایی با چهره»</string>
+    <string name="security_settings_face_enroll_finish_description">اکنون می‌توانید تلفنتان را بردارید و قفل آن را با چهره‌تان باز کنید</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"برای راه‌اندازی مجدد «قفل‌گشایی با چهره»، مدل چهره فعلی را حذف کنید.
+
+مدل چهره شما به‌طور دائمی و ایمن حذف خواهد شد.
+
+بعداز حذف، برای باز کردن قفل تلفن به پین، الگو، یا گذرواژه نیاز خواهید داشت."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"برای راه‌اندازی مجدد «قفل‌گشایی با چهره»، مدل چهره فعلی را حذف کنید.
+
+مدل چهره شما به‌طور دائمی و ایمن حذف خواهد شد.
+
+بعداز حذف، برای باز کردن قفل تلفن به اثر انگشت، پین، الگو، یا گذرواژه نیاز خواهید داشت."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">اگر معمولاً عینک می‌زنید، می‌توانید درحین راه‌اندازی هم عینک به چشم داشته باشید.</string>
+    <string name="security_settings_face_enroll_introduction_message">استفاده از چهره برای باز کردن قفل تلفن</string>
+    <string name="security_settings_face_settings_footer">"برای باز کردن قفل تلفن از چهره‌تان استفاده کنید.
+
+به‌خاطر داشته باشید:
+در هر بار فقط می‌توانید یک چهره راه‌اندازی کنید. برای افزودن چهره‌ای دیگر، چهره فعلی را حذف کنید.
+
+با نگاه کردن به تلفن، اگر هم نخواهید، ممکن است قفل آن باز شود.
+
+افراد دیگر می‌توانند با نگه داشتن تلفن جلوی صورتتان، قفلش را باز کنند.
+
+فرد دیگری که شباهت زیادی به شما دارد (مثلاً خواهر و برادر دوقلویتان) می‌تواند قفل تلفنتان را باز کند."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"برای باز کردن قفل تلفن از چهره‌تان استفاده کنید.
+
+به‌خاطر داشته باشید:
+در هر بار فقط می‌توانید یک چهره راه‌اندازی کنید. برای افزودن چهره‌ای دیگر، چهره فعلی را حذف کنید.
+
+با نگاه کردن به تلفن، اگر هم نخواهید، ممکن است قفل آن باز شود.
+
+افراد دیگر می‌توانند با نگه داشتن تلفن جلوی صورتتان، حتی اگر چشم‌هایتان بسته باشد، قفلش را باز کنند.
+
+فرد دیگری که شباهت زیادی به شما دارد (مثلاً خواهر و برادر دوقلویتان) می‌تواند قفل تلفنتان را باز کند."</string>
+    <string name="security_settings_face_settings_require_attention_details">برای باز کردن قفل تلفن، چشم‌هایتان باید باز باشد. برای بهترین نتیجه، هنگام باز کردن قفل تلفن عینک آفتابی‌تان را بردارید.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="branded_monitoring_description_app_personal">Google ತನ್ನ ಸರ್ವರ್‌ಗಳ ಮೂಲಕ ಡೇಟಾವನ್ನು ಕಳುಹಿಸುವ ಮೂಲಕ ಈ ಕನೆಕ್ಷನ್ ಅನ್ನು ಸಂರಕ್ಷಿಸುತ್ತಿದೆ</string>
+    <string name="branded_vpn_footer">Google ನಿಂದ ಕನೆಕ್ಷನ್ ಅನ್ನು ಸಂರಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="fingerprint_dialog_touch_sensor">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಲಘುವಾಗಿ ಸ್ಪರ್ಶಿಸಿ</string>
+    <string name="settingslib_learn_more_text">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಕುರಿತು ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಿ</string>
+</resources>

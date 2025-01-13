@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_enroll_education_message">No ecrã seguinte, mantenha o telemóvel ao nível dos olhos</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Como configurar o Desbloqueio facial</string>
+    <string name="security_settings_face_enroll_finish_description">Agora, pode pegar no seu telemóvel e usar o seu rosto para o desbloquear</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Elimine o seu modelo de rosto atual para configurar o Desbloqueio facial novamente.
+
+O seu modelo de rosto será eliminado permanentemente e em segurança.
+
+Após a eliminação, precisará do seu PIN, padrão ou palavra-passe para desbloquear o telemóvel."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Elimine o seu modelo de rosto atual para configurar o Desbloqueio facial novamente.
+
+O seu modelo de rosto será eliminado permanentemente e em segurança.
+
+Após a eliminação, precisará da sua impressão digital, PIN, padrão ou palavra-passe para desbloquear o telemóvel."</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">Se costuma usar óculos, pode usá-los durante a configuração.</string>
+    <string name="security_settings_face_enroll_introduction_message">Use o seu rosto para desbloquear o telemóvel</string>
+    <string name="security_settings_face_settings_footer">"Use o seu rosto para desbloquear o telemóvel.
+
+Não se esqueça:
+Só pode ter um rosto configurado de cada vez. Para adicionar outro rosto, elimine o atual.
+
+Pode desbloquear o telemóvel involuntariamente ao olhar para o mesmo.
+
+Alguém pode desbloquear o telemóvel se o segurar junto ao seu rosto.
+
+Alguém muito parecido consigo, como um irmão com traços semelhantes, pode desbloquear o telemóvel."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Use o seu rosto para desbloquear o telemóvel.
+
+Não se esqueça:
+Só pode ter um rosto configurado de cada vez. Para adicionar outro rosto, elimine o atual.
+
+Pode desbloquear o telemóvel involuntariamente ao olhar para o mesmo.
+
+Alguém pode desbloquear o telemóvel se o segurar junto ao seu rosto, mesmo com os olhos fechados.
+
+Alguém muito parecido consigo, como um irmão com traços semelhantes, pode desbloquear o telemóvel."</string>
+    <string name="security_settings_face_settings_require_attention_details">Para desbloquear o telemóvel, os olhos têm de estar abertos. Para obter os melhores resultados, tire os óculos de sol ao desbloquear o telemóvel.</string>
+</resources>
